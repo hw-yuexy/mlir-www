@@ -1,0 +1,7 @@
+<map id="mlir::xegpu::uArch::SpirvStoreScatterInstruction" name="mlir::xegpu::uArch::SpirvStoreScatterInstruction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="18,181,230,221"/>
+<area shape="rect" id="Node000002" href="$structmlir_1_1xegpu_1_1uArch_1_1StoreScatterInstructionInterface.html" title=" " alt="" coords="5,93,243,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,147,127,181,121,181,121,147"/>
+<area shape="rect" id="Node000003" href="$structmlir_1_1xegpu_1_1uArch_1_1Instruction.html" title=" " alt="" coords="54,5,194,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,59,127,93,121,93,121,59"/>
+</map>

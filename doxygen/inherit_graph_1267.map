@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structmlir_1_1xegpu_1_1uArch_1_1Instruction.html" title=" " alt="" coords="31,165,171,205"/>
+<area shape="rect" id="Node000001" href="$structmlir_1_1xegpu_1_1uArch_1_1LoadGatherInstructionInterface.html" title=" " alt="" coords="262,5,494,45"/>
+<area shape="poly" id="edge1881_Node000000_Node000001" title=" " alt="" coords="126,153,176,102,208,77,243,55,271,43,273,48,245,60,211,81,180,106,129,157"/>
+<area shape="rect" id="Node000003" href="$structmlir_1_1xegpu_1_1uArch_1_1StoreScatterInstructionInterface.html" title=" " alt="" coords="259,69,497,109"/>
+<area shape="poly" id="edge1883_Node000000_Node000003" title=" " alt="" coords="153,157,243,119,283,107,285,112,245,124,155,162"/>
+<area shape="rect" id="Node000005" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockLoadInstruction.html" title=" " alt="" coords="255,133,501,173"/>
+<area shape="poly" id="edge1885_Node000000_Node000005" title=" " alt="" coords="184,173,255,165,256,170,185,178"/>
+<area shape="rect" id="Node000006" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockPrefetchInstruction.html" title=" " alt="" coords="244,197,512,237"/>
+<area shape="poly" id="edge1886_Node000000_Node000006" title=" " alt="" coords="185,192,244,199,244,205,184,198"/>
+<area shape="rect" id="Node000007" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockStoreInstruction.html" title=" " alt="" coords="254,261,502,301"/>
+<area shape="poly" id="edge1887_Node000000_Node000007" title=" " alt="" coords="155,209,245,247,285,259,283,264,243,252,153,214"/>
+<area shape="rect" id="Node000008" href="$structmlir_1_1xegpu_1_1uArch_1_1SubgroupMatrixMultiplyAcc.html" title=" " alt="" coords="273,325,483,365"/>
+<area shape="poly" id="edge1888_Node000000_Node000008" title=" " alt="" coords="129,214,180,264,211,290,245,311,274,323,272,328,243,316,208,294,176,268,126,218"/>
+<area shape="rect" id="Node000002" href="$structmlir_1_1xegpu_1_1uArch_1_1SpirvLoadGatherInstruction.html" title=" " alt="" coords="563,5,769,45"/>
+<area shape="poly" id="edge1882_Node000001_Node000002" title=" " alt="" coords="507,23,563,23,563,28,507,28"/>
+<area shape="rect" id="Node000004" href="$structmlir_1_1xegpu_1_1uArch_1_1SpirvStoreScatterInstruction.html" title=" " alt="" coords="560,69,772,109"/>
+<area shape="poly" id="edge1884_Node000003_Node000004" title=" " alt="" coords="511,87,560,87,560,92,511,92"/>
+<area shape="rect" id="Node000009" href="$structmlir_1_1xegpu_1_1uArch_1_1MMAInstructionInterface.html" title=" " alt="" coords="5,325,196,365"/>
+<area shape="poly" id="edge1889_Node000009_Node000008" title=" " alt="" coords="210,343,273,343,273,348,210,348"/>
+</map>

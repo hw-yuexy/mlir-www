@@ -1,0 +1,19 @@
+<map id="mlir::xegpu::uArch::Instruction" name="mlir::xegpu::uArch::Instruction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,145,205"/>
+<area shape="rect" id="Node000002" href="$structmlir_1_1xegpu_1_1uArch_1_1LoadGatherInstructionInterface.html" title=" " alt="" coords="211,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,152,136,102,162,76,192,55,217,43,219,48,195,60,166,80,140,105,99,155"/>
+<area shape="rect" id="Node000004" href="$structmlir_1_1xegpu_1_1uArch_1_1StoreScatterInstructionInterface.html" title=" " alt="" coords="209,69,446,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,156,192,119,229,107,231,112,194,124,121,161"/>
+<area shape="rect" id="Node000006" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockLoadInstruction.html" title=" " alt="" coords="205,133,450,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,172,204,166,205,172,159,177"/>
+<area shape="rect" id="Node000007" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockPrefetchInstruction.html" title=" " alt="" coords="193,197,461,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,193,193,198,193,203,159,199"/>
+<area shape="rect" id="Node000008" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockStoreInstruction.html" title=" " alt="" coords="203,261,451,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="121,210,194,247,231,259,229,264,192,252,119,215"/>
+<area shape="rect" id="Node000009" href="$structmlir_1_1xegpu_1_1uArch_1_1SubgroupMatrixMultiplyAcc.html" title=" " alt="" coords="223,325,432,365"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="99,215,140,265,166,290,195,311,224,324,221,329,192,316,162,294,136,269,95,219"/>
+<area shape="rect" id="Node000003" href="$structmlir_1_1xegpu_1_1uArch_1_1SpirvLoadGatherInstruction.html" title=" " alt="" coords="512,5,719,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,23,512,23,512,28,457,28"/>
+<area shape="rect" id="Node000005" href="$structmlir_1_1xegpu_1_1uArch_1_1SpirvStoreScatterInstruction.html" title=" " alt="" coords="509,69,721,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="460,87,509,87,509,92,460,92"/>
+</map>

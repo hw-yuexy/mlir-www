@@ -1,0 +1,651 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classConversionPattern.html" title=" " alt="" coords="180,1369,321,1395"/>
+<area shape="rect" id="Node000001" href="$classmlir_1_1ConvertToLLVMPattern.html" title="Base class for operation conversions targeting the LLVM IR dialect." alt="" coords="505,1369,707,1395"/>
+<area shape="poly" id="edge30_Node000000_Node000001" title=" " alt="" coords="336,1379,505,1379,505,1385,336,1385"/>
+<area shape="rect" id="Node000002" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="937,1042,1111,1082"/>
+<area shape="poly" id="edge31_Node000001_Node000002" title=" " alt="" coords="619,1356,656,1300,711,1228,782,1154,822,1120,865,1092,900,1077,936,1067,937,1072,902,1082,868,1096,825,1124,785,1158,715,1231,660,1303,624,1359"/>
+<area shape="rect" id="Node000003" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="937,1106,1111,1146"/>
+<area shape="poly" id="edge32_Node000001_Node000003" title=" " alt="" coords="625,1356,665,1313,721,1258,789,1202,827,1177,866,1156,900,1142,936,1133,937,1138,902,1147,868,1160,830,1182,793,1206,725,1262,669,1316,629,1360"/>
+<area shape="rect" id="Node000004" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="937,1170,1111,1210"/>
+<area shape="poly" id="edge33_Node000001_Node000004" title=" " alt="" coords="633,1358,732,1290,797,1252,866,1220,936,1200,937,1205,868,1224,800,1256,735,1294,636,1363"/>
+<area shape="rect" id="Node000005" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1234,1133,1274"/>
+<area shape="poly" id="edge34_Node000001_Node000005" title=" " alt="" coords="649,1361,747,1323,866,1283,914,1271,915,1277,867,1289,749,1328,651,1366"/>
+<area shape="rect" id="Node000006" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1981,1133,2021"/>
+<area shape="poly" id="edge35_Node000001_Node000006" title=" " alt="" coords="613,1408,632,1513,650,1586,675,1666,709,1748,751,1829,804,1903,835,1937,868,1967,890,1980,915,1990,913,1995,888,1985,865,1971,831,1940,800,1907,747,1832,704,1750,670,1667,645,1587,627,1514,608,1409"/>
+<area shape="rect" id="Node000041" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1831,1133,1871"/>
+<area shape="poly" id="edge37_Node000001_Node000041" title=" " alt="" coords="618,1407,647,1485,698,1594,732,1652,772,1709,817,1761,868,1807,891,1820,915,1831,913,1836,888,1825,865,1811,813,1765,767,1712,727,1655,693,1596,642,1487,613,1409"/>
+<area shape="rect" id="Node000284" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1298,1133,1338"/>
+<area shape="poly" id="edge39_Node000001_Node000284" title=" " alt="" coords="703,1365,914,1332,915,1337,704,1370"/>
+<area shape="rect" id="Node000287" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1426,1133,1466"/>
+<area shape="poly" id="edge41_Node000001_Node000287" title=" " alt="" coords="704,1394,915,1427,914,1432,703,1399"/>
+<area shape="rect" id="Node000286" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1362,1133,1402"/>
+<area shape="poly" id="edge43_Node000001_Node000286" title=" " alt="" coords="720,1379,915,1379,915,1385,720,1385"/>
+<area shape="rect" id="Node000289" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="895,1490,1153,1530"/>
+<area shape="poly" id="edge45_Node000001_Node000289" title=" " alt="" coords="651,1398,749,1436,867,1475,915,1487,914,1493,866,1481,747,1441,649,1403"/>
+<area shape="rect" id="Node000291" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1554,1133,1594"/>
+<area shape="poly" id="edge47_Node000001_Node000291" title=" " alt="" coords="636,1401,735,1470,800,1508,868,1540,915,1554,914,1560,866,1544,797,1512,732,1474,633,1406"/>
+<area shape="rect" id="Node000293" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1623,1133,1663"/>
+<area shape="poly" id="edge49_Node000001_Node000293" title=" " alt="" coords="629,1404,669,1447,725,1501,793,1557,868,1604,915,1622,914,1627,865,1608,790,1561,722,1505,665,1451,625,1407"/>
+<area shape="rect" id="Node000297" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1690,1133,1730"/>
+<area shape="poly" id="edge53_Node000001_Node000297" title=" " alt="" coords="624,1405,660,1462,715,1535,785,1610,825,1644,868,1673,915,1693,913,1698,865,1678,822,1648,782,1614,711,1538,656,1465,619,1408"/>
+<area shape="rect" id="Node000299" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,1757,1133,1797"/>
+<area shape="poly" id="edge55_Node000001_Node000299" title=" " alt="" coords="620,1406,652,1474,705,1565,739,1613,778,1660,821,1703,868,1740,891,1752,915,1761,914,1766,889,1757,865,1744,817,1707,774,1664,735,1617,701,1568,648,1476,615,1408"/>
+<area shape="rect" id="Node000301" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title=" " alt="" coords="915,302,1133,342"/>
+<area shape="poly" id="edge57_Node000001_Node000301" title=" " alt="" coords="614,1355,711,1078,785,879,864,674,948,480,1011,341,1016,343,952,482,869,676,790,880,716,1080,619,1357"/>
+<area shape="rect" id="Node000303" href="$classmlir_1_1ConvertOpInterfaceToLLVMPattern.html" title="Utility class for operation conversions targeting the LLVM dialect that allows for matching and rewri..." alt="" coords="920,687,1128,727"/>
+<area shape="poly" id="edge59_Node000001_Node000303" title=" " alt="" coords="607,1355,623,1240,639,1161,663,1072,697,981,740,891,767,849,796,808,829,771,865,737,890,721,919,711,921,716,893,726,868,741,833,775,800,812,771,852,745,894,701,983,668,1074,644,1162,628,1241,612,1356"/>
+<area shape="rect" id="Node000304" href="$classmlir_1_1ConvertOpToLLVMPattern.html" title="Utility class for operation conversions targeting the LLVM dialect that match exactly one source oper..." alt="" coords="893,751,1155,791"/>
+<area shape="poly" id="edge60_Node000001_Node000304" title=" " alt="" coords="621,1357,1007,790,1011,793,626,1360"/>
+<area shape="rect" id="Node000007" href="$classAssertOpLowering.html" title=" " alt="" coords="1314,1988,1454,2013"/>
+<area shape="poly" id="edge36_Node000006_Node000007" title=" " alt="" coords="1147,1998,1314,1998,1314,2003,1147,2003"/>
+<area shape="rect" id="Node000040" href="$classTransposeOpLowering.html" title="Rewrite AVX2&#45;specific vector.transpose, for the supported cases and depending on the TransposeLowerin..." alt="" coords="1302,1889,1466,1915"/>
+<area shape="poly" id="edge38_Node000041_Node000040" title=" " alt="" coords="1147,1866,1302,1888,1301,1893,1147,1871"/>
+<area shape="rect" id="Node000285" href="$structSincosOpLowering.html" title=" " alt="" coords="1313,1369,1455,1395"/>
+<area shape="poly" id="edge40_Node000284_Node000285" title=" " alt="" coords="1137,1338,1230,1355,1314,1369,1313,1374,1229,1361,1136,1343"/>
+<area shape="rect" id="Node000288" href="$structClampFOpConversion.html" title=" " alt="" coords="1303,1419,1465,1444"/>
+<area shape="poly" id="edge42_Node000287_Node000288" title=" " alt="" coords="1147,1438,1303,1432,1303,1437,1147,1444"/>
+<area shape="poly" id="edge44_Node000286_Node000285" title=" " alt="" coords="1147,1379,1313,1379,1313,1385,1147,1385"/>
+<area shape="rect" id="Node000290" href="$structmlir_1_1GPUDynamicSharedMemoryOpLowering.html" title="Lowering for gpu.dynamic.shared.memory to LLVM dialect." alt="" coords="1263,1469,1505,1509"/>
+<area shape="poly" id="edge46_Node000289_Node000290" title=" " alt="" coords="1167,1499,1263,1493,1263,1498,1167,1504"/>
+<area shape="rect" id="Node000292" href="$structmlir_1_1GPUFuncOpLowering.html" title=" " alt="" coords="1289,1533,1479,1559"/>
+<area shape="poly" id="edge48_Node000291_Node000292" title=" " alt="" coords="1147,1562,1288,1551,1288,1556,1147,1567"/>
+<area shape="rect" id="Node000294" href="$structmlir_1_1GPUPrintfOpToHIPLowering.html" title="The lowering of gpu.printf to a call to HIP hostcalls." alt="" coords="1268,1583,1500,1608"/>
+<area shape="poly" id="edge50_Node000293_Node000294" title=" " alt="" coords="1147,1624,1288,1605,1289,1611,1147,1630"/>
+<area shape="rect" id="Node000295" href="$structmlir_1_1GPUPrintfOpToLLVMCallLowering.html" title="The lowering of gpu.printf to a call to an external printf() function." alt="" coords="1279,1633,1489,1673"/>
+<area shape="poly" id="edge51_Node000293_Node000295" title=" " alt="" coords="1147,1644,1279,1647,1278,1653,1147,1649"/>
+<area shape="rect" id="Node000296" href="$structmlir_1_1GPUPrintfOpToVPrintfLowering.html" title="Lowering of gpu.printf to a vprintf standard library." alt="" coords="1287,1697,1481,1737"/>
+<area shape="poly" id="edge52_Node000293_Node000296" title=" " alt="" coords="1137,1663,1287,1694,1286,1700,1136,1669"/>
+<area shape="rect" id="Node000298" href="$structmlir_1_1GPUReturnOpLowering.html" title=" " alt="" coords="1282,1761,1486,1787"/>
+<area shape="poly" id="edge54_Node000297_Node000298" title=" " alt="" coords="1142,1730,1230,1746,1304,1759,1303,1764,1229,1751,1141,1735"/>
+<area shape="rect" id="Node000300" href="$classmlir_1_1VectorConvertToLLVMPattern.html" title="Basic lowering implementation to rewrite Ops with just one result to the LLVM Dialect." alt="" coords="1258,1811,1510,1865"/>
+<area shape="poly" id="edge56_Node000299_Node000300" title=" " alt="" coords="1147,1795,1258,1814,1257,1819,1147,1800"/>
+<area shape="rect" id="Node000302" href="$structmlir_1_1gpu_1_1index__lowering_1_1OpLowering.html" title=" " alt="" coords="1291,5,1477,60"/>
+<area shape="poly" id="edge58_Node000301_Node000302" title=" " alt="" coords="1040,289,1070,240,1112,180,1165,120,1195,93,1228,69,1258,54,1290,43,1291,48,1260,59,1231,74,1199,97,1169,124,1116,183,1074,242,1045,291"/>
+<area shape="rect" id="Node000305" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,591,1517,631"/>
+<area shape="poly" id="edge61_Node000304_Node000305" title=" " alt="" coords="1165,747,1180,737,1191,726,1197,715,1203,691,1209,666,1216,653,1228,641,1249,628,1252,633,1231,645,1220,656,1214,668,1208,692,1202,717,1195,730,1183,741,1168,751"/>
+<area shape="rect" id="Node000306" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,655,1517,695"/>
+<area shape="poly" id="edge62_Node000304_Node000306" title=" " alt="" coords="1159,745,1180,737,1204,721,1228,705,1263,693,1265,698,1231,710,1207,726,1183,742,1161,750"/>
+<area shape="rect" id="Node000307" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,719,1517,759"/>
+<area shape="poly" id="edge63_Node000304_Node000307" title=" " alt="" coords="1168,756,1250,749,1251,754,1169,761"/>
+<area shape="rect" id="Node000308" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,783,1517,823"/>
+<area shape="poly" id="edge64_Node000304_Node000308" title=" " alt="" coords="1169,781,1251,789,1250,794,1168,787"/>
+<area shape="rect" id="Node000309" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,847,1517,887"/>
+<area shape="poly" id="edge65_Node000304_Node000309" title=" " alt="" coords="1097,793,1230,833,1280,845,1279,850,1229,838,1096,798"/>
+<area shape="rect" id="Node000310" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1251,911,1517,951"/>
+<area shape="poly" id="edge66_Node000304_Node000310" title=" " alt="" coords="1063,797,1138,849,1183,875,1230,897,1266,909,1264,914,1228,902,1181,880,1135,853,1060,802"/>
+<area shape="rect" id="Node000311" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1233,976,1535,1031"/>
+<area shape="poly" id="edge67_Node000304_Node000311" title=" " alt="" coords="1051,800,1084,838,1126,881,1176,924,1231,961,1258,974,1255,978,1228,966,1173,929,1122,885,1080,841,1047,804"/>
+<area shape="rect" id="Node000312" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1231,1055,1537,1109"/>
+<area shape="poly" id="edge68_Node000304_Node000312" title=" " alt="" coords="1043,802,1071,855,1113,920,1166,986,1197,1016,1231,1041,1251,1052,1248,1057,1228,1046,1194,1020,1162,990,1108,923,1066,858,1038,805"/>
+<area shape="rect" id="Node000313" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1233,1133,1535,1188"/>
+<area shape="poly" id="edge69_Node000304_Node000313" title=" " alt="" coords="1048,802,1184,1029,1196,1056,1203,1079,1212,1100,1231,1120,1248,1131,1245,1135,1228,1124,1208,1103,1198,1081,1191,1058,1179,1031,1043,805"/>
+<area shape="rect" id="Node000314" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1231,1212,1537,1267"/>
+<area shape="poly" id="edge70_Node000304_Node000314" title=" " alt="" coords="1050,801,1115,900,1152,963,1184,1029,1193,1055,1197,1079,1199,1122,1205,1160,1215,1179,1231,1199,1245,1210,1241,1214,1227,1203,1210,1182,1200,1162,1193,1122,1191,1080,1187,1056,1179,1031,1147,966,1111,903,1046,804"/>
+<area shape="rect" id="Node000315" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1233,1291,1535,1345"/>
+<area shape="poly" id="edge71_Node000304_Node000315" title=" " alt="" coords="1051,801,1118,899,1154,962,1184,1029,1194,1067,1198,1102,1194,1164,1193,1192,1197,1220,1209,1248,1231,1278,1244,1289,1241,1293,1227,1281,1204,1251,1192,1221,1188,1192,1189,1163,1192,1102,1189,1068,1179,1031,1149,965,1113,902,1047,804"/>
+<area shape="rect" id="Node000316" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1231,84,1537,139"/>
+<area shape="poly" id="edge72_Node000304_Node000316" title=" " alt="" coords="1165,751,1179,738,1193,716,1202,689,1211,620,1210,536,1204,446,1197,355,1196,270,1204,200,1213,171,1227,148,1239,137,1242,141,1231,152,1218,173,1209,201,1201,271,1202,354,1209,445,1215,536,1216,620,1208,690,1198,719,1183,741,1168,755"/>
+<area shape="rect" id="Node000317" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1231,163,1537,217"/>
+<area shape="poly" id="edge73_Node000304_Node000317" title=" " alt="" coords="1165,750,1179,738,1191,719,1200,696,1208,636,1208,563,1203,485,1199,406,1199,333,1206,271,1215,247,1227,227,1239,215,1243,219,1231,230,1220,249,1212,273,1204,333,1204,406,1209,484,1213,563,1213,636,1205,697,1196,722,1183,741,1168,754"/>
+<area shape="rect" id="Node000318" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1229,241,1539,296"/>
+<area shape="poly" id="edge74_Node000304_Node000318" title=" " alt="" coords="1165,750,1179,738,1200,711,1213,685,1221,658,1223,632,1218,579,1204,525,1190,471,1184,416,1186,389,1194,361,1207,333,1227,306,1239,294,1243,298,1231,309,1212,336,1199,363,1192,389,1189,416,1195,470,1209,524,1223,578,1229,632,1226,659,1218,687,1204,714,1183,741,1168,754"/>
+<area shape="rect" id="Node000319" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title=" " alt="" coords="1233,320,1535,375"/>
+<area shape="poly" id="edge75_Node000304_Node000319" title=" " alt="" coords="1165,750,1179,737,1196,716,1208,695,1214,674,1217,652,1214,609,1204,565,1194,521,1190,476,1193,453,1199,431,1210,408,1227,386,1241,373,1244,377,1231,389,1215,411,1204,433,1198,454,1195,476,1199,520,1209,564,1219,608,1222,652,1219,675,1213,697,1201,719,1183,741,1168,754"/>
+<area shape="rect" id="Node000320" href="$classmlir_1_1OneToOneConvertToLLVMPattern.html" title="Generic implementation of one&#45;to&#45;one conversion from &quot;SourceOp&quot; to &quot;TargetOp&quot; where the latter belong..." alt="" coords="1251,399,1517,439"/>
+<area shape="poly" id="edge76_Node000304_Node000320" title=" " alt="" coords="1165,750,1179,737,1194,720,1203,703,1212,668,1210,632,1203,596,1196,559,1194,522,1203,486,1213,467,1227,449,1249,433,1252,437,1231,453,1217,470,1208,488,1199,523,1201,559,1208,595,1215,632,1217,668,1208,705,1198,723,1183,741,1168,754"/>
+<area shape="rect" id="Node000321" href="$structmlir_1_1OpToFuncCallLowering.html" title="Rewriting that replaces SourceOp with a CallOp to f32Func or f64Func or f32ApproxFunc or f16Func or i..." alt="" coords="1283,463,1485,503"/>
+<area shape="poly" id="edge77_Node000304_Node000321" title=" " alt="" coords="1165,749,1179,737,1199,711,1207,684,1207,656,1203,628,1199,599,1199,570,1207,541,1227,513,1253,495,1281,485,1283,490,1255,500,1231,517,1212,544,1204,571,1204,599,1208,627,1212,656,1212,685,1204,713,1183,741,1168,753"/>
+<area shape="rect" id="Node000322" href="$structmlir_1_1ScalarizeVectorOpLowering.html" title="Unrolls SourceOp to array/vector elements." alt="" coords="1267,527,1501,567"/>
+<area shape="poly" id="edge78_Node000304_Node000322" title=" " alt="" coords="1165,748,1179,737,1195,719,1202,700,1203,659,1204,618,1211,597,1227,577,1246,564,1266,555,1268,560,1248,569,1231,581,1216,600,1209,619,1208,659,1207,701,1199,721,1183,741,1168,753"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="945,2625,1103,2651"/>
+<area shape="poly" id="edge95_Node000008_Node000007" title=" " alt="" coords="1023,2611,1029,2501,1039,2425,1056,2341,1081,2254,1117,2169,1140,2129,1165,2091,1195,2056,1228,2024,1247,2011,1269,2002,1313,1994,1314,2000,1270,2007,1249,2016,1231,2028,1198,2059,1170,2094,1144,2132,1122,2172,1086,2256,1061,2342,1044,2426,1034,2502,1028,2611"/>
+<area shape="rect" id="Node000009" href="$classConvertAliasResource.html" title=" " alt="" coords="1289,3123,1479,3163"/>
+<area shape="poly" id="edge79_Node000008_Node000009" title=" " alt="" coords="1031,2664,1046,2751,1060,2809,1080,2872,1106,2937,1140,3001,1181,3059,1231,3109,1258,3126,1289,3136,1288,3141,1256,3130,1228,3113,1177,3063,1135,3003,1101,2939,1075,2874,1055,2810,1041,2752,1026,2665"/>
+<area shape="rect" id="Node000011" href="$classConvertAliasResource.html" title=" " alt="" coords="1296,2038,1472,2078"/>
+<area shape="poly" id="edge81_Node000008_Node000011" title=" " alt="" coords="1024,2611,1036,2514,1049,2447,1068,2374,1094,2298,1129,2224,1173,2155,1199,2123,1228,2095,1259,2074,1295,2063,1297,2068,1262,2079,1231,2099,1203,2127,1177,2158,1133,2227,1099,2300,1073,2376,1054,2448,1042,2514,1030,2612"/>
+<area shape="rect" id="Node000013" href="$classConvertAliasResource.html" title=" " alt="" coords="1301,2153,1467,2193"/>
+<area shape="poly" id="edge83_Node000008_Node000013" title=" " alt="" coords="1027,2611,1046,2532,1083,2423,1109,2365,1142,2308,1181,2255,1228,2209,1262,2189,1300,2177,1302,2182,1264,2194,1231,2213,1185,2259,1146,2311,1114,2367,1088,2425,1051,2534,1032,2612"/>
+<area shape="rect" id="Node000014" href="$structConvertLoad.html" title=" " alt="" coords="1651,2132,1755,2157"/>
+<area shape="poly" id="edge93_Node000008_Node000014" title=" " alt="" coords="1024,2612,1035,2517,1047,2454,1065,2385,1091,2315,1126,2248,1171,2188,1198,2161,1228,2138,1262,2124,1308,2116,1364,2113,1425,2114,1549,2123,1651,2135,1651,2140,1549,2128,1425,2119,1364,2118,1309,2122,1263,2129,1231,2143,1201,2165,1175,2191,1131,2251,1096,2317,1070,2387,1052,2455,1040,2518,1029,2612"/>
+<area shape="rect" id="Node000015" href="$classConvertAliasResource.html" title=" " alt="" coords="1301,2267,1467,2307"/>
+<area shape="poly" id="edge85_Node000008_Node000015" title=" " alt="" coords="1031,2611,1056,2550,1096,2470,1123,2427,1154,2387,1189,2349,1228,2317,1263,2300,1300,2290,1302,2295,1265,2305,1231,2322,1192,2353,1158,2390,1127,2430,1101,2472,1061,2552,1036,2613"/>
+<area shape="rect" id="Node000016" href="$structConvertStore.html" title=" " alt="" coords="1650,2247,1757,2272"/>
+<area shape="poly" id="edge94_Node000008_Node000016" title=" " alt="" coords="1027,2611,1045,2536,1061,2488,1082,2436,1108,2383,1141,2333,1181,2289,1228,2253,1284,2227,1344,2212,1406,2206,1467,2207,1526,2213,1580,2222,1664,2244,1663,2249,1579,2228,1525,2218,1467,2212,1406,2211,1345,2217,1286,2232,1231,2258,1184,2293,1145,2337,1113,2386,1087,2438,1066,2489,1051,2538,1032,2613"/>
+<area shape="rect" id="Node000017" href="$classConvertAliasResource.html" title=" " alt="" coords="1282,2331,1486,2371"/>
+<area shape="poly" id="edge87_Node000008_Node000017" title=" " alt="" coords="1036,2611,1064,2562,1106,2500,1162,2436,1193,2407,1228,2382,1254,2370,1281,2360,1283,2366,1256,2374,1231,2387,1197,2411,1165,2439,1111,2503,1068,2565,1040,2614"/>
+<area shape="rect" id="Node000019" href="$classSpecifierGetterSetterOpConverter.html" title=" " alt="" coords="1258,2396,1510,2451"/>
+<area shape="poly" id="edge89_Node000008_Node000019" title=" " alt="" coords="1044,2613,1120,2538,1172,2496,1228,2461,1257,2448,1259,2453,1231,2466,1175,2501,1123,2542,1048,2617"/>
+<area shape="rect" id="Node000021" href="$classSpecifierGetterSetterOpConverter.html" title=" " alt="" coords="1259,2475,1509,2529"/>
+<area shape="poly" id="edge91_Node000008_Node000021" title=" " alt="" coords="1059,2617,1136,2578,1228,2540,1267,2527,1269,2532,1230,2544,1138,2583,1062,2621"/>
+<area shape="rect" id="Node000023" href="$classConvertAliasResource.html" title=" " alt="" coords="1301,2554,1467,2594"/>
+<area shape="poly" id="edge96_Node000008_Node000023" title=" " alt="" coords="1109,2620,1301,2586,1302,2591,1110,2626"/>
+<area shape="rect" id="Node000024" href="$structConvertNativeFuncPattern.html" title="Convert math ops marked with fast (afn) to native OpenCL intrinsics." alt="" coords="1288,2618,1480,2658"/>
+<area shape="poly" id="edge97_Node000008_Node000024" title=" " alt="" coords="1117,2635,1288,2635,1288,2641,1117,2641"/>
+<area shape="rect" id="Node000025" href="$classGPUAllReduceConversion.html" title="Pattern to convert a gpu.all_reduce op into a SPIR&#45;V group op." alt="" coords="1290,2683,1478,2708"/>
+<area shape="poly" id="edge98_Node000008_Node000025" title=" " alt="" coords="1118,2650,1304,2680,1303,2685,1117,2655"/>
+<area shape="rect" id="Node000026" href="$classGPUSubgroupReduceConversion.html" title="Pattern to convert a gpu.subgroup_reduce op into a SPIR&#45;V group op." alt="" coords="1268,2732,1500,2757"/>
+<area shape="poly" id="edge99_Node000008_Node000026" title=" " alt="" coords="1064,2654,1140,2687,1230,2718,1281,2729,1280,2735,1229,2723,1138,2692,1062,2659"/>
+<area shape="rect" id="Node000027" href="$structIndexSwitchOpLowering.html" title=" " alt="" coords="1295,2781,1473,2807"/>
+<area shape="poly" id="edge100_Node000008_Node000027" title=" " alt="" coords="1052,2657,1129,2714,1178,2743,1230,2767,1295,2784,1294,2789,1228,2773,1176,2748,1126,2718,1049,2662"/>
+<area shape="rect" id="Node000028" href="$classSpecifierGetterSetterOpConverter.html" title=" " alt="" coords="1264,2831,1504,2871"/>
+<area shape="poly" id="edge101_Node000008_Node000028" title=" " alt="" coords="1046,2660,1078,2695,1121,2738,1173,2781,1231,2817,1265,2831,1263,2836,1228,2822,1170,2785,1118,2742,1074,2699,1042,2663"/>
+<area shape="rect" id="Node000029" href="$structStorageSpecifierInitOpConverter.html" title=" " alt="" coords="1269,2896,1499,2921"/>
+<area shape="poly" id="edge102_Node000008_Node000029" title=" " alt="" coords="1040,2662,1068,2710,1111,2770,1165,2831,1197,2858,1231,2881,1270,2897,1268,2902,1228,2886,1194,2863,1162,2835,1106,2774,1064,2713,1036,2664"/>
+<area shape="rect" id="Node000030" href="$structWhileLowering.html" title=" " alt="" coords="1325,3188,1443,3213"/>
+<area shape="poly" id="edge103_Node000008_Node000030" title=" " alt="" coords="1029,2664,1040,2762,1052,2828,1070,2901,1096,2976,1131,3049,1175,3116,1202,3146,1231,3173,1252,3186,1276,3195,1325,3202,1324,3207,1274,3200,1250,3191,1228,3177,1198,3150,1171,3120,1126,3052,1091,2978,1065,2903,1047,2830,1035,2763,1024,2665"/>
+<area shape="rect" id="Node000281" href="$classYieldOpLowering.html" title=" " alt="" coords="1319,2945,1449,2971"/>
+<area shape="poly" id="edge104_Node000008_Node000281" title=" " alt="" coords="1037,2662,1062,2720,1103,2794,1129,2833,1159,2870,1193,2904,1231,2932,1274,2949,1319,2957,1318,2962,1272,2955,1228,2936,1190,2908,1155,2874,1125,2836,1098,2797,1057,2722,1032,2665"/>
+<area shape="rect" id="Node000282" href="$classmlir_1_1SPIRVToLLVMConversion.html" title=" " alt="" coords="1277,2995,1491,3035"/>
+<area shape="poly" id="edge105_Node000008_Node000282" title=" " alt="" coords="1035,2663,1058,2728,1097,2816,1124,2861,1154,2906,1190,2947,1231,2981,1253,2994,1277,3003,1275,3008,1251,2999,1228,2986,1186,2950,1150,2909,1119,2864,1092,2818,1053,2730,1030,2665"/>
+<area shape="rect" id="Node000283" href="$structmlir_1_1spirv_1_1ElementwiseOpPattern.html" title="Converts elementwise unary, binary and ternary standard operations to SPIR&#45;V operations." alt="" coords="1285,3059,1483,3099"/>
+<area shape="poly" id="edge106_Node000008_Node000283" title=" " alt="" coords="1033,2663,1052,2740,1089,2844,1115,2899,1147,2953,1186,3003,1231,3045,1257,3060,1285,3070,1284,3075,1254,3065,1228,3049,1182,3007,1143,2956,1110,2902,1084,2846,1047,2741,1028,2665"/>
+<area shape="rect" id="Node000010" href="$structConvertAccessChain.html" title=" " alt="" coords="1626,3131,1781,3156"/>
+<area shape="poly" id="edge80_Node000009_Node000010" title=" " alt="" coords="1493,3141,1626,3141,1626,3146,1493,3146"/>
+<area shape="rect" id="Node000012" href="$structConvertAddressOf.html" title=" " alt="" coords="1633,2045,1773,2071"/>
+<area shape="poly" id="edge82_Node000011_Node000012" title=" " alt="" coords="1486,2055,1633,2055,1633,2061,1486,2061"/>
+<area shape="poly" id="edge84_Node000013_Node000014" title=" " alt="" coords="1480,2162,1651,2147,1651,2152,1481,2167"/>
+<area shape="poly" id="edge86_Node000015_Node000016" title=" " alt="" coords="1480,2276,1650,2261,1650,2267,1481,2282"/>
+<area shape="rect" id="Node000018" href="$structConvertVariable.html" title=" " alt="" coords="1640,2339,1767,2364"/>
+<area shape="poly" id="edge88_Node000017_Node000018" title=" " alt="" coords="1500,2349,1640,2349,1640,2354,1500,2354"/>
+<area shape="rect" id="Node000020" href="$structStorageSpecifierGetOpConverter.html" title=" " alt="" coords="1587,2411,1820,2436"/>
+<area shape="poly" id="edge90_Node000019_Node000020" title=" " alt="" coords="1524,2421,1586,2421,1586,2426,1524,2426"/>
+<area shape="rect" id="Node000022" href="$structStorageSpecifierSetOpConverter.html" title=" " alt="" coords="1588,2489,1819,2515"/>
+<area shape="poly" id="edge92_Node000021_Node000022" title=" " alt="" coords="1523,2499,1588,2499,1588,2505,1523,2505"/>
+<area shape="rect" id="Node000279" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,6653,108,6679"/>
+<area shape="rect" id="Node000033" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements." alt="" coords="175,6681,327,6707"/>
+<area shape="poly" id="edge107_Node000279_Node000033" title=" " alt="" coords="122,6673,175,6680,174,6686,121,6678"/>
+<area shape="rect" id="Node000280" href="$classmlir_1_1detail_1_1PDLByteCodePattern.html" title=" " alt="" coords="156,6617,345,6657"/>
+<area shape="poly" id="edge355_Node000279_Node000280" title=" " alt="" coords="121,6654,155,6648,156,6654,122,6659"/>
+<area shape="rect" id="Node000034" href="$structmlir_1_1HomomorphismSimplification.html" title=" " alt="" coords="393,3139,819,3252"/>
+<area shape="poly" id="edge108_Node000033_Node000034" title=" " alt="" coords="336,6674,343,6667,353,6646,361,6608,374,6487,381,6315,384,6100,381,5575,371,4982,360,4388,356,3862,358,3646,364,3473,374,3350,382,3311,391,3287,407,3267,427,3250,430,3254,411,3271,396,3290,387,3312,380,3351,369,3473,363,3646,361,3862,366,4388,376,4982,386,5575,390,6100,386,6315,379,6487,366,6608,358,6647,348,6670,340,6678"/>
+<area shape="rect" id="Node000036" href="$classmlir_1_1OpTraitRewritePattern.html" title=" " alt="" coords="507,3590,705,3630"/>
+<area shape="poly" id="edge110_Node000033_Node000036" title=" " alt="" coords="336,6674,343,6667,352,6648,359,6615,370,6508,377,6356,379,6166,377,5702,368,5177,360,4652,356,4188,359,3997,365,3845,375,3737,382,3703,391,3682,414,3657,443,3639,474,3626,506,3617,507,3622,476,3631,445,3644,418,3662,396,3685,387,3704,381,3738,370,3845,364,3998,362,4188,365,4652,374,5177,382,5702,385,6166,382,6356,375,6509,364,6615,357,6650,348,6670,340,6678"/>
+<area shape="rect" id="Node000038" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,2449,709,2504"/>
+<area shape="poly" id="edge112_Node000033_Node000038" title=" " alt="" coords="336,6674,343,6667,348,6651,353,6617,361,6498,373,6096,380,5540,383,4905,385,3711,386,3304,391,3127,410,3032,434,2936,491,2755,548,2603,590,2503,595,2505,553,2605,496,2756,439,2938,415,3033,396,3128,392,3304,390,3711,389,4905,385,5540,379,6096,367,6498,358,6617,353,6653,348,6670,340,6678"/>
+<area shape="rect" id="Node000032" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="489,3301,723,3341"/>
+<area shape="poly" id="edge116_Node000033_Node000032" title=" " alt="" coords="336,6674,343,6667,353,6646,361,6609,372,6491,379,6322,381,6111,377,5597,365,5016,354,4435,350,3922,353,3711,360,3543,372,3424,381,3387,391,3364,411,3345,435,3331,461,3322,488,3316,489,3321,463,3327,437,3336,415,3350,395,3368,386,3388,377,3425,365,3543,358,3711,355,3922,359,4435,371,5016,382,5597,387,6111,384,6322,378,6491,366,6610,358,6648,348,6670,340,6678"/>
+<area shape="rect" id="Node000043" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,3695,705,3749"/>
+<area shape="poly" id="edge119_Node000033_Node000043" title=" " alt="" coords="336,6674,343,6667,351,6649,358,6618,369,6519,376,6377,380,6199,381,5766,375,5276,369,4785,366,4350,372,4027,379,3925,391,3872,420,3831,457,3796,497,3769,536,3747,539,3752,500,3773,460,3801,424,3834,396,3874,385,3926,377,4027,371,4350,374,4785,381,5276,386,5766,386,6199,382,6377,374,6519,363,6619,356,6651,348,6670,340,6678"/>
+<area shape="rect" id="Node000046" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="467,3885,745,3925"/>
+<area shape="poly" id="edge122_Node000033_Node000046" title=" " alt="" coords="336,6674,343,6667,351,6650,357,6621,368,6526,374,6391,378,6223,377,5811,372,5345,365,4879,363,4466,370,4160,378,4064,384,4033,391,4014,417,3982,451,3956,487,3937,523,3922,525,3927,489,3942,453,3961,421,3986,396,4017,389,4034,384,4065,375,4161,369,4467,371,4879,377,5345,383,5811,383,6223,379,6391,373,6527,363,6622,356,6652,348,6670,340,6678"/>
+<area shape="rect" id="Node000050" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="500,4027,712,4067"/>
+<area shape="poly" id="edge126_Node000033_Node000050" title=" " alt="" coords="336,6674,343,6667,350,6652,356,6625,366,6539,373,6415,377,6261,380,5886,377,5460,371,4656,376,4375,382,4285,391,4238,407,4209,427,4181,474,4133,523,4094,566,4065,569,4070,526,4098,477,4137,431,4185,412,4212,396,4240,387,4286,381,4375,377,4656,382,5460,385,5886,383,6262,378,6416,372,6539,362,6626,355,6654,348,6670,340,6678"/>
+<area shape="rect" id="Node000062" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,4251,709,4305"/>
+<area shape="poly" id="edge138_Node000033_Node000062" title=" " alt="" coords="336,6674,343,6667,350,6653,355,6628,364,6548,374,6291,376,5942,373,5547,368,4801,374,4541,381,4459,391,4416,418,4378,453,4347,491,4322,529,4303,531,4308,494,4327,456,4352,422,4382,396,4418,386,4459,380,4541,374,4801,378,5547,381,5942,379,6291,370,6548,361,6629,355,6655,348,6670,340,6678"/>
+<area shape="rect" id="Node000067" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="510,4429,702,4469"/>
+<area shape="poly" id="edge143_Node000033_Node000067" title=" " alt="" coords="336,6674,343,6667,354,6631,363,6558,372,6321,375,6000,373,5637,370,4950,376,4711,382,4635,391,4596,423,4551,465,4515,509,4487,551,4466,553,4471,512,4492,468,4520,427,4555,396,4598,387,4636,381,4711,376,4951,378,5637,380,6000,378,6321,368,6558,360,6632,348,6670,340,6678"/>
+<area shape="rect" id="Node000073" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="479,4609,733,4649"/>
+<area shape="poly" id="edge149_Node000033_Node000073" title=" " alt="" coords="336,6674,343,6667,354,6648,364,6620,378,6544,386,6443,390,6320,386,6030,373,5706,360,5381,353,5089,355,4965,361,4862,373,4783,381,4754,391,4733,416,4702,448,4678,483,4660,518,4646,519,4651,485,4665,451,4683,420,4706,396,4735,386,4756,378,4784,366,4863,360,4966,358,5089,365,5381,378,5706,391,6030,395,6321,392,6443,383,6545,369,6622,359,6650,347,6670,340,6678"/>
+<area shape="rect" id="Node000076" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,4745,709,4800"/>
+<area shape="poly" id="edge152_Node000033_Node000076" title=" " alt="" coords="336,6674,343,6667,354,6649,363,6623,376,6552,383,6456,386,6341,382,6068,370,5764,357,5459,352,5185,354,5069,360,4972,372,4899,381,4872,391,4852,413,4828,441,4809,471,4795,501,4785,503,4790,473,4800,443,4814,417,4832,396,4856,386,4874,378,4900,366,4973,359,5069,357,5185,363,5459,375,5764,387,6068,392,6341,389,6457,381,6552,368,6625,359,6651,347,6670,340,6678"/>
+<area shape="rect" id="Node000083" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,4865,703,4920"/>
+<area shape="poly" id="edge159_Node000033_Node000083" title=" " alt="" coords="336,6674,343,6667,353,6650,362,6625,374,6556,381,6465,383,6354,377,6092,364,5799,352,5507,347,5245,350,5134,358,5043,371,4974,380,4949,391,4931,416,4910,445,4895,477,4887,509,4883,509,4889,478,4892,447,4900,419,4914,395,4934,385,4951,376,4975,363,5044,355,5135,352,5245,357,5506,370,5799,383,6091,388,6354,386,6465,379,6557,367,6626,358,6652,347,6670,340,6678"/>
+<area shape="rect" id="Node000087" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="488,4945,724,4985"/>
+<area shape="poly" id="edge163_Node000033_Node000087" title=" " alt="" coords="336,6674,343,6667,353,6650,361,6627,373,6560,379,6472,381,6366,376,6113,364,5831,352,5549,348,5297,351,5191,358,5103,371,5037,380,5013,391,4996,412,4978,435,4966,461,4958,487,4953,488,4959,462,4963,437,4971,415,4983,395,5000,385,5016,376,5039,363,5104,356,5192,353,5297,357,5549,369,5831,381,6113,387,6366,385,6472,378,6561,366,6628,358,6653,347,6670,340,6678"/>
+<area shape="rect" id="Node000090" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,5009,703,5064"/>
+<area shape="poly" id="edge166_Node000033_Node000090" title=" " alt="" coords="336,6674,343,6667,352,6651,360,6629,372,6566,378,6482,380,6380,376,6139,365,5871,354,5603,350,5363,353,5261,360,5178,372,5114,381,5092,391,5075,416,5054,445,5040,476,5031,508,5027,509,5033,477,5036,447,5045,419,5058,395,5078,386,5094,378,5116,365,5178,358,5262,355,5363,359,5603,370,5871,381,6139,386,6380,383,6482,377,6566,365,6630,357,6653,347,6670,340,6678"/>
+<area shape="rect" id="Node000093" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="459,5089,753,5129"/>
+<area shape="poly" id="edge169_Node000033_Node000093" title=" " alt="" coords="336,6674,343,6667,359,6630,370,6570,377,6489,379,6392,374,6161,364,5903,354,5646,351,5415,354,5319,361,5238,373,5178,381,5156,391,5140,422,5116,457,5103,459,5108,424,5121,395,5144,386,5158,378,5179,366,5239,359,5319,356,5416,359,5646,369,5903,380,6161,384,6392,382,6489,376,6570,365,6632,348,6670,340,6678"/>
+<area shape="rect" id="Node000096" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,5153,703,5208"/>
+<area shape="poly" id="edge172_Node000033_Node000096" title=" " alt="" coords="336,6674,343,6667,359,6632,369,6575,375,6498,378,6406,374,6187,365,5943,356,5699,353,5481,356,5389,363,5312,374,5255,391,5219,416,5198,445,5184,477,5175,509,5171,509,5177,478,5180,447,5189,419,5202,395,5222,379,5257,368,5313,361,5389,358,5481,361,5699,370,5943,379,6187,383,6406,381,6499,374,6576,364,6634,348,6670,340,6678"/>
+<area shape="rect" id="Node000099" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,5232,703,5287"/>
+<area shape="poly" id="edge175_Node000033_Node000099" title=" " alt="" coords="336,6674,343,6667,358,6634,368,6580,374,6508,376,6421,373,6214,365,5983,357,5752,355,5545,358,5458,364,5386,375,5332,391,5298,416,5276,445,5262,477,5254,509,5250,509,5255,478,5259,447,5267,419,5281,395,5301,380,5333,369,5387,363,5459,360,5545,362,5752,370,5982,379,6213,381,6421,379,6508,373,6581,363,6636,348,6670,340,6678"/>
+<area shape="rect" id="Node000104" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,5311,703,5365"/>
+<area shape="poly" id="edge180_Node000033_Node000104" title=" " alt="" coords="336,6674,343,6667,357,6636,367,6585,372,6517,375,6435,372,6240,365,6022,358,5805,356,5610,359,5528,365,5460,376,5408,391,5376,416,5355,445,5341,477,5333,509,5329,509,5334,478,5338,447,5346,419,5360,395,5380,381,5410,371,5460,364,5528,362,5610,363,5805,370,6022,378,6240,380,6435,378,6517,372,6586,362,6638,348,6670,340,6678"/>
+<area shape="rect" id="Node000108" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="477,5389,735,5444"/>
+<area shape="poly" id="edge184_Node000033_Node000108" title=" " alt="" coords="336,6674,343,6667,356,6638,365,6590,371,6526,373,6449,372,6266,365,6061,359,5857,358,5674,361,5597,367,5533,377,5485,391,5455,409,5438,430,5426,476,5411,478,5416,432,5431,412,5443,395,5458,382,5487,372,5534,366,5598,363,5674,364,5857,370,6061,377,6266,379,6449,376,6527,371,6591,361,6640,348,6670,340,6678"/>
+<area shape="rect" id="Node000113" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="491,5469,721,5509"/>
+<area shape="poly" id="edge189_Node000033_Node000113" title=" " alt="" coords="336,6674,343,6667,356,6640,364,6594,372,6461,370,6287,365,6094,359,5900,359,5727,362,5654,368,5594,377,5549,391,5520,412,5502,436,5490,463,5482,490,5477,491,5483,464,5487,438,5495,415,5507,395,5524,382,5550,373,5595,367,5655,364,5727,365,5900,370,6094,376,6287,377,6461,369,6595,361,6641,348,6670,340,6678"/>
+<area shape="rect" id="Node000116" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="482,5533,730,5588"/>
+<area shape="poly" id="edge192_Node000033_Node000116" title=" " alt="" coords="336,6674,343,6667,355,6642,363,6600,371,6475,370,6314,365,6134,361,5954,361,5792,369,5668,378,5626,391,5599,410,5582,432,5569,481,5555,482,5560,434,5574,413,5586,395,5602,383,5627,375,5669,366,5792,366,5954,371,6133,375,6314,376,6475,368,6600,360,6643,348,6670,340,6678"/>
+<area shape="rect" id="Node000120" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,5612,709,5667"/>
+<area shape="poly" id="edge196_Node000033_Node000120" title=" " alt="" coords="336,6674,343,6667,354,6644,362,6605,369,6489,369,6340,365,6173,362,6006,362,5857,371,5742,379,5702,391,5678,415,5657,442,5644,472,5635,502,5631,503,5636,473,5640,444,5649,418,5662,395,5681,384,5704,376,5743,368,5857,367,6006,371,6173,374,6340,374,6490,367,6605,359,6645,348,6670,340,6678"/>
+<area shape="rect" id="Node000124" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,5691,709,5745"/>
+<area shape="poly" id="edge200_Node000033_Node000124" title=" " alt="" coords="336,6674,343,6667,363,6633,376,6590,383,6539,385,6481,379,6352,364,6212,350,6072,345,5942,348,5885,356,5834,370,5791,391,5756,415,5736,442,5722,472,5714,502,5709,503,5715,473,5719,444,5727,418,5741,395,5760,375,5793,361,5835,353,5885,350,5943,356,6071,370,6211,384,6351,390,6481,388,6539,381,6591,368,6635,347,6670,340,6678"/>
+<area shape="rect" id="Node000128" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="510,5769,702,5824"/>
+<area shape="poly" id="edge204_Node000033_Node000128" title=" " alt="" coords="337,6674,343,6667,361,6636,373,6597,380,6550,382,6498,377,6379,365,6251,353,6123,348,6005,351,5953,358,5906,372,5866,391,5835,416,5814,446,5800,478,5791,510,5788,510,5793,478,5797,448,5805,419,5818,395,5838,376,5869,364,5907,356,5953,353,6005,358,6123,370,6251,382,6379,388,6498,385,6551,378,6598,366,6638,347,6670,341,6677"/>
+<area shape="rect" id="Node000131" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="463,5849,749,5889"/>
+<area shape="poly" id="edge207_Node000033_Node000131" title=" " alt="" coords="337,6674,343,6667,360,6639,371,6602,377,6559,380,6511,375,6401,364,6283,353,6165,350,6056,353,6008,360,5965,373,5929,391,5900,424,5876,462,5862,463,5867,426,5881,395,5904,377,5931,365,5966,358,6009,355,6056,359,6165,369,6283,380,6401,385,6511,383,6560,376,6604,365,6641,347,6670,341,6677"/>
+<area shape="rect" id="Node000134" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,5913,705,5968"/>
+<area shape="poly" id="edge210_Node000033_Node000134" title=" " alt="" coords="337,6674,343,6667,358,6642,369,6609,375,6571,377,6527,374,6429,365,6323,356,6218,354,6120,357,6076,363,6038,375,6005,391,5979,416,5958,444,5945,475,5936,506,5932,507,5937,476,5941,446,5950,418,5963,395,5982,379,6007,369,6039,362,6077,359,6120,362,6217,370,6323,379,6429,382,6527,380,6571,374,6610,363,6644,347,6670,341,6677"/>
+<area shape="rect" id="Node000137" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,5992,707,6047"/>
+<area shape="poly" id="edge213_Node000033_Node000137" title=" " alt="" coords="337,6674,343,6667,357,6645,366,6616,374,6543,372,6457,365,6363,358,6269,357,6182,360,6144,366,6110,376,6081,391,6058,415,6037,444,6024,474,6015,505,6011,506,6016,475,6020,445,6029,418,6042,395,6061,381,6083,371,6111,365,6144,362,6183,364,6269,370,6363,377,6456,379,6544,371,6617,362,6647,347,6670,340,6677"/>
+<area shape="rect" id="Node000140" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,6071,707,6125"/>
+<area shape="poly" id="edge216_Node000033_Node000140" title=" " alt="" coords="337,6673,343,6667,355,6648,363,6623,371,6560,370,6484,365,6402,361,6321,360,6245,369,6182,378,6156,391,6136,415,6116,444,6102,474,6094,505,6090,505,6095,475,6099,445,6107,418,6121,395,6140,383,6159,374,6183,366,6245,366,6320,371,6402,376,6484,376,6560,369,6624,360,6650,347,6670,340,6677"/>
+<area shape="rect" id="Node000143" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="484,6150,728,6190"/>
+<area shape="poly" id="edge219_Node000033_Node000143" title=" " alt="" coords="337,6673,343,6667,354,6650,361,6628,369,6573,369,6507,365,6435,362,6363,362,6297,371,6241,379,6219,391,6202,411,6185,434,6173,483,6160,485,6166,436,6178,414,6189,395,6205,384,6221,376,6242,368,6297,367,6363,370,6434,374,6506,374,6573,366,6630,359,6652,347,6670,340,6677"/>
+<area shape="rect" id="Node000146" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="486,6215,726,6269"/>
+<area shape="poly" id="edge222_Node000033_Node000146" title=" " alt="" coords="337,6673,343,6667,361,6643,373,6619,379,6595,381,6571,377,6523,365,6474,353,6426,349,6377,352,6353,359,6328,372,6304,391,6280,411,6263,435,6251,485,6237,486,6242,437,6256,414,6268,395,6284,377,6307,364,6331,357,6354,354,6377,359,6425,370,6473,382,6522,387,6571,384,6596,378,6621,366,6646,347,6670,340,6677"/>
+<area shape="rect" id="Node000149" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,6293,707,6348"/>
+<area shape="poly" id="edge225_Node000033_Node000149" title=" " alt="" coords="337,6673,343,6667,358,6648,367,6629,376,6591,373,6552,365,6514,358,6475,356,6436,365,6397,376,6378,391,6359,416,6339,444,6326,474,6318,505,6313,506,6319,476,6323,446,6331,419,6344,395,6363,380,6381,370,6399,361,6437,363,6474,370,6513,378,6552,381,6591,372,6631,362,6651,347,6670,340,6677"/>
+<area shape="rect" id="Node000153" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="460,6373,752,6413"/>
+<area shape="poly" id="edge229_Node000033_Node000153" title=" " alt="" coords="337,6673,343,6667,363,6637,371,6607,370,6577,365,6546,360,6515,360,6484,369,6454,391,6424,423,6402,459,6389,460,6394,425,6407,395,6428,374,6456,366,6485,366,6515,370,6545,375,6576,376,6608,368,6639,347,6670,340,6677"/>
+<area shape="rect" id="Node000156" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,6437,705,6492"/>
+<area shape="poly" id="edge232_Node000033_Node000156" title=" " alt="" coords="337,6673,343,6667,358,6647,365,6627,366,6586,367,6544,375,6523,392,6503,417,6485,446,6472,507,6459,508,6464,448,6477,420,6489,395,6507,380,6526,372,6545,371,6586,370,6628,363,6650,347,6671,340,6677"/>
+<area shape="rect" id="Node000159" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,6516,703,6571"/>
+<area shape="poly" id="edge235_Node000033_Node000159" title=" " alt="" coords="334,6673,344,6667,360,6646,366,6625,373,6602,392,6581,419,6565,448,6554,508,6542,509,6547,450,6559,421,6570,395,6585,378,6605,372,6626,365,6649,347,6671,337,6677"/>
+<area shape="rect" id="Node000162" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,6595,703,6649"/>
+<area shape="poly" id="edge238_Node000033_Node000162" title=" " alt="" coords="319,6676,393,6659,508,6637,509,6642,394,6665,320,6681"/>
+<area shape="rect" id="Node000165" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="485,6674,727,6714"/>
+<area shape="poly" id="edge241_Node000033_Node000165" title=" " alt="" coords="341,6691,485,6691,485,6697,341,6697"/>
+<area shape="rect" id="Node000168" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="495,6738,717,6778"/>
+<area shape="poly" id="edge244_Node000033_Node000168" title=" " alt="" coords="318,6707,394,6723,495,6740,494,6745,393,6729,317,6712"/>
+<area shape="rect" id="Node000171" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="459,6802,753,6842"/>
+<area shape="poly" id="edge247_Node000033_Node000171" title=" " alt="" coords="278,6713,329,6752,361,6772,394,6788,459,6806,458,6811,392,6792,358,6776,326,6757,275,6718"/>
+<area shape="rect" id="Node000174" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,6867,703,6921"/>
+<area shape="poly" id="edge250_Node000033_Node000174" title=" " alt="" coords="269,6717,290,6749,318,6786,354,6822,395,6852,451,6875,509,6887,508,6892,449,6880,392,6856,350,6826,314,6789,285,6752,264,6720"/>
+<area shape="rect" id="Node000177" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,6945,703,7000"/>
+<area shape="poly" id="edge253_Node000033_Node000177" title=" " alt="" coords="262,6719,279,6766,306,6824,344,6883,368,6910,395,6932,421,6947,450,6958,510,6970,509,6975,449,6963,419,6952,392,6936,364,6913,340,6887,301,6827,274,6768,257,6721"/>
+<area shape="rect" id="Node000180" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,7024,709,7079"/>
+<area shape="poly" id="edge256_Node000033_Node000180" title=" " alt="" coords="258,6720,270,6781,294,6860,312,6902,335,6942,362,6979,395,7011,419,7026,446,7037,503,7049,502,7055,444,7042,417,7031,392,7015,358,6983,330,6945,307,6904,289,6862,265,6782,253,6721"/>
+<area shape="rect" id="Node000183" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="485,7103,727,7143"/>
+<area shape="poly" id="edge259_Node000033_Node000183" title=" " alt="" coords="255,6720,262,6795,270,6844,283,6896,301,6950,325,7001,356,7049,395,7089,415,7103,437,7113,486,7125,485,7130,436,7118,413,7108,392,7093,352,7052,320,7004,296,6952,278,6898,265,6845,257,6796,250,6721"/>
+<area shape="rect" id="Node000186" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="509,7168,703,7223"/>
+<area shape="poly" id="edge262_Node000033_Node000186" title=" " alt="" coords="254,6720,257,6805,264,6861,275,6923,293,6986,318,7047,351,7104,395,7153,420,7171,448,7183,509,7195,508,7201,447,7188,417,7176,392,7157,347,7108,313,7050,288,6988,270,6924,259,6862,252,6805,249,6720"/>
+<area shape="rect" id="Node000189" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="479,7247,733,7287"/>
+<area shape="poly" id="edge265_Node000033_Node000189" title=" " alt="" coords="258,6720,273,6832,302,6988,321,7067,343,7138,368,7196,381,7217,395,7233,414,7247,434,7257,479,7269,478,7274,432,7262,411,7251,392,7237,377,7221,363,7198,338,7140,315,7068,297,6989,268,6833,252,6721"/>
+<area shape="rect" id="Node000192" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,7312,709,7367"/>
+<area shape="poly" id="edge268_Node000033_Node000192" title=" " alt="" coords="257,6720,271,6843,298,7018,317,7107,339,7188,365,7254,380,7279,395,7297,418,7315,445,7327,503,7340,502,7345,443,7332,416,7319,391,7301,375,7282,361,7256,334,7190,312,7108,293,7019,266,6844,252,6720"/>
+<area shape="rect" id="Node000196" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="469,7391,743,7431"/>
+<area shape="poly" id="edge272_Node000033_Node000196" title=" " alt="" coords="256,6720,267,6858,292,7057,310,7159,334,7252,362,7328,378,7356,395,7377,430,7400,470,7412,468,7418,427,7405,392,7381,373,7359,357,7330,328,7254,305,7160,287,7058,262,6858,251,6720"/>
+<area shape="rect" id="Node000199" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,7456,705,7511"/>
+<area shape="poly" id="edge275_Node000033_Node000199" title=" " alt="" coords="256,6720,265,6870,289,7088,307,7200,330,7302,360,7386,377,7418,395,7441,419,7460,447,7473,477,7481,507,7485,506,7490,476,7486,445,7478,416,7464,391,7445,372,7421,355,7388,325,7304,302,7201,283,7088,260,6870,250,6721"/>
+<area shape="rect" id="Node000202" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,7535,705,7589"/>
+<area shape="poly" id="edge278_Node000033_Node000202" title=" " alt="" coords="255,6720,262,6883,271,6999,283,7125,301,7251,325,7366,340,7416,357,7459,375,7495,395,7521,419,7540,447,7553,477,7561,508,7565,507,7570,476,7566,445,7558,416,7545,391,7525,370,7498,352,7461,335,7417,320,7367,296,7252,278,7126,265,7000,257,6883,250,6720"/>
+<area shape="rect" id="Node000206" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,7613,707,7668"/>
+<area shape="poly" id="edge282_Node000033_Node000206" title=" " alt="" coords="255,6721,260,6898,267,7025,278,7164,296,7302,321,7428,336,7483,353,7531,373,7571,395,7600,419,7618,446,7631,475,7639,505,7643,504,7649,474,7644,444,7636,416,7623,391,7604,369,7574,349,7534,331,7485,316,7429,291,7303,273,7164,261,7026,254,6898,249,6721"/>
+<area shape="rect" id="Node000209" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="472,7693,740,7733"/>
+<area shape="poly" id="edge285_Node000033_Node000209" title=" " alt="" coords="254,6721,257,6911,262,7050,273,7201,290,7352,315,7491,331,7551,350,7604,371,7647,395,7679,412,7692,431,7703,473,7715,471,7721,428,7708,409,7697,391,7683,367,7650,345,7606,326,7553,310,7492,284,7353,267,7202,257,7050,251,6911,249,6721"/>
+<area shape="rect" id="Node000212" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="476,7757,736,7797"/>
+<area shape="poly" id="edge288_Node000033_Node000212" title=" " alt="" coords="254,6720,254,6922,259,7070,269,7231,285,7393,311,7541,328,7606,347,7662,370,7709,395,7743,413,7757,432,7768,476,7780,475,7785,430,7773,410,7761,391,7747,365,7711,342,7664,322,7608,306,7542,280,7394,263,7232,254,7070,249,6922,249,6720"/>
+<area shape="rect" id="Node000215" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="492,7821,720,7861"/>
+<area shape="poly" id="edge291_Node000033_Node000215" title=" " alt="" coords="256,6720,271,6947,300,7294,319,7471,342,7627,368,7745,381,7784,395,7807,416,7823,439,7835,492,7846,491,7851,438,7840,413,7828,391,7810,376,7786,362,7746,337,7628,314,7472,295,7295,265,6947,251,6721"/>
+<area shape="rect" id="Node000218" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="510,7885,702,7940"/>
+<area shape="poly" id="edge294_Node000033_Node000218" title=" " alt="" coords="256,6720,270,6958,299,7326,318,7513,341,7679,367,7804,381,7846,395,7871,419,7890,448,7904,479,7912,510,7916,509,7921,478,7917,446,7909,417,7895,391,7874,376,7848,362,7806,336,7680,313,7514,293,7326,265,6958,251,6720"/>
+<area shape="rect" id="Node000221" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="465,7965,747,8005"/>
+<area shape="poly" id="edge297_Node000033_Node000221" title=" " alt="" coords="256,6720,268,6973,295,7367,314,7568,338,7745,365,7880,380,7924,395,7951,427,7974,466,7987,464,7992,425,7979,391,7954,375,7927,360,7881,332,7746,309,7568,290,7367,263,6973,250,6721"/>
+<area shape="rect" id="Node000224" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="459,8029,753,8069"/>
+<area shape="poly" id="edge300_Node000033_Node000224" title=" " alt="" coords="256,6721,267,6985,293,7399,312,7611,336,7798,363,7940,379,7987,395,8015,424,8036,459,8049,457,8054,422,8041,391,8018,374,7989,358,7941,330,7799,307,7611,288,7399,262,6985,250,6721"/>
+<area shape="rect" id="Node000227" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="481,8093,731,8148"/>
+<area shape="poly" id="edge303_Node000033_Node000227" title=" " alt="" coords="256,6721,267,6996,292,7430,311,7653,334,7850,348,7932,363,7999,378,8049,395,8079,413,8095,434,8106,482,8121,480,8126,432,8111,410,8099,391,8082,374,8051,357,8001,343,7933,329,7850,306,7653,287,7431,261,6996,250,6721"/>
+<area shape="rect" id="Node000230" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="497,8172,715,8227"/>
+<area shape="poly" id="edge306_Node000033_Node000230" title=" " alt="" coords="255,6720,265,7010,289,7470,308,7706,332,7915,346,8002,361,8074,378,8127,395,8159,417,8177,442,8189,469,8198,497,8202,496,8207,468,8203,440,8194,414,8181,391,8162,373,8129,356,8075,340,8003,327,7916,303,7707,284,7470,260,7010,250,6721"/>
+<area shape="rect" id="Node000233" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,8251,707,8305"/>
+<area shape="poly" id="edge309_Node000033_Node000233" title=" " alt="" coords="255,6720,264,7023,287,7508,306,7758,329,7980,344,8072,359,8148,377,8204,395,8238,418,8257,445,8270,475,8278,505,8282,505,8287,474,8283,444,8275,415,8261,391,8241,372,8206,354,8149,338,8073,324,7980,300,7759,282,7509,259,7023,250,6720"/>
+<area shape="rect" id="Node000236" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="505,8329,707,8384"/>
+<area shape="poly" id="edge312_Node000033_Node000236" title=" " alt="" coords="255,6720,263,7037,271,7281,285,7548,303,7811,327,8044,342,8141,358,8221,376,8281,395,8316,418,8335,445,8348,475,8356,505,8360,505,8366,474,8362,444,8353,415,8340,391,8320,371,8283,353,8223,336,8142,322,8045,298,7811,279,7548,266,7281,257,7037,250,6720"/>
+<area shape="rect" id="Node000239" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="503,8408,709,8463"/>
+<area shape="poly" id="edge315_Node000033_Node000239" title=" " alt="" coords="255,6721,262,7052,270,7308,282,7588,300,7864,325,8109,340,8211,356,8295,375,8358,395,8395,418,8414,444,8427,473,8435,503,8439,502,8444,472,8440,442,8432,415,8418,391,8398,370,8360,351,8297,334,8212,319,8110,295,7864,277,7588,264,7308,256,7052,250,6721"/>
+<area shape="rect" id="Node000242" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="487,8487,725,8527"/>
+<area shape="poly" id="edge318_Node000033_Node000242" title=" " alt="" coords="255,6720,260,7064,267,7333,279,7626,297,7916,321,8174,337,8281,354,8369,374,8435,384,8458,395,8474,415,8490,437,8501,488,8513,486,8518,435,8506,412,8494,391,8477,380,8460,369,8437,349,8371,331,8282,316,8174,291,7917,274,7626,262,7333,255,7064,249,6720"/>
+<area shape="rect" id="Node000249" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="492,8551,720,8591"/>
+<area shape="poly" id="edge325_Node000033_Node000249" title=" " alt="" coords="255,6720,259,7076,266,7354,277,7658,295,7959,319,8226,335,8338,353,8429,373,8497,384,8521,395,8538,416,8554,439,8566,465,8574,492,8578,492,8583,464,8579,437,8571,413,8559,391,8541,379,8524,368,8499,348,8431,330,8339,314,8227,289,7960,272,7659,260,7354,254,7076,249,6721"/>
+<area shape="rect" id="Node000252" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="483,8615,729,8655"/>
+<area shape="poly" id="edge328_Node000033_Node000252" title=" " alt="" coords="255,6721,258,7088,264,7375,275,7690,292,8002,317,8279,333,8394,351,8489,372,8560,383,8585,395,8602,414,8617,435,8629,483,8641,482,8646,433,8634,411,8622,391,8605,379,8587,367,8562,346,8491,328,8395,312,8280,287,8003,270,7691,259,7375,253,7088,249,6721"/>
+<area shape="rect" id="Node000255" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="482,8679,730,8719"/>
+<area shape="poly" id="edge331_Node000033_Node000255" title=" " alt="" coords="255,6721,257,7099,263,7396,273,7722,290,8045,315,8331,331,8451,350,8549,371,8622,383,8648,395,8666,414,8681,435,8692,483,8705,481,8710,433,8697,411,8686,391,8669,378,8651,366,8624,345,8551,326,8452,310,8332,285,8045,268,7723,257,7397,252,7099,249,6721"/>
+<area shape="rect" id="Node000258" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,8744,705,8799"/>
+<area shape="poly" id="edge334_Node000033_Node000258" title=" " alt="" coords="255,6720,257,7108,262,7415,273,7752,290,8086,315,8382,331,8506,350,8608,371,8684,383,8711,395,8730,418,8749,446,8762,476,8771,507,8775,506,8780,475,8776,444,8767,416,8754,391,8733,378,8714,366,8686,344,8610,326,8507,309,8383,284,8086,267,7752,257,7415,251,7108,249,6720"/>
+<area shape="rect" id="Node000261" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,8823,705,8877"/>
+<area shape="poly" id="edge337_Node000033_Node000261" title=" " alt="" coords="255,6720,256,7122,260,7441,270,7791,287,8139,312,8448,329,8577,348,8683,370,8762,382,8790,395,8810,418,8829,446,8842,476,8850,507,8854,506,8859,475,8855,444,8847,416,8833,391,8813,378,8793,365,8764,343,8685,323,8578,307,8448,281,8139,265,7792,255,7441,250,7122,249,6720"/>
+<area shape="rect" id="Node000264" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="497,8902,715,8942"/>
+<area shape="poly" id="edge340_Node000033_Node000264" title=" " alt="" coords="254,6720,254,7136,258,7467,267,7831,283,8192,309,8513,325,8647,345,8758,369,8840,382,8868,395,8888,416,8906,441,8918,468,8925,496,8929,496,8934,467,8930,439,8923,414,8910,391,8892,377,8871,364,8841,340,8759,320,8648,303,8514,278,8192,261,7831,252,7467,249,7136,249,6720"/>
+<area shape="rect" id="Node000267" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title=" " alt="" coords="507,8966,705,9006"/>
+<area shape="poly" id="edge343_Node000033_Node000267" title=" " alt="" coords="255,6720,269,7161,298,7897,318,8274,341,8603,367,8843,381,8917,395,8952,419,8971,446,8984,476,8991,507,8993,506,8999,475,8996,444,8989,416,8976,391,8956,376,8918,362,8844,336,8603,313,8274,293,7897,264,7161,250,6720"/>
+<area shape="rect" id="Node000270" href="$classSortCommutativeOperands.html" title="Sorts the operands of op in ascending order of the &quot;key&quot; associated with each operand iff op is commu..." alt="" coords="507,9031,705,9056"/>
+<area shape="poly" id="edge346_Node000033_Node000270" title=" " alt="" coords="255,6721,268,7174,297,7931,317,8319,340,8657,366,8904,381,8980,388,9003,395,9016,424,9037,458,9049,495,9054,531,9053,531,9059,494,9059,457,9054,421,9042,391,9020,383,9005,376,8981,361,8905,335,8658,311,8319,292,7931,263,7174,250,6721"/>
+<area shape="rect" id="Node000271" href="$classmlir_1_1ExternalRewritePattern.html" title=" " alt="" coords="503,9080,709,9105"/>
+<area shape="poly" id="edge347_Node000033_Node000271" title=" " alt="" coords="255,6720,268,7182,296,7956,316,8353,339,8699,352,8840,366,8952,380,9030,388,9054,395,9067,425,9089,461,9100,500,9104,537,9103,537,9108,499,9110,460,9105,423,9093,391,9070,383,9056,375,9031,360,8953,347,8841,334,8700,310,8353,291,7956,262,7182,250,6721"/>
+<area shape="rect" id="Node000272" href="$structmlir_1_1HomomorphismSimplification.html" title=" " alt="" coords="413,9130,799,9229"/>
+<area shape="poly" id="edge348_Node000033_Node000272" title=" " alt="" coords="255,6720,269,7190,299,7979,319,8384,342,8738,368,8997,381,9077,396,9117,415,9135,411,9139,391,9119,376,9078,362,8998,336,8738,313,8384,293,7979,264,7190,250,6721"/>
+<area shape="rect" id="Node000273" href="$classmlir_1_1OpTraitRewritePattern.html" title="OpTraitRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting again..." alt="" coords="507,9253,705,9293"/>
+<area shape="poly" id="edge349_Node000033_Node000273" title=" " alt="" coords="255,6721,267,7213,294,8043,314,8470,337,8843,350,8994,364,9115,380,9198,388,9225,395,9239,419,9258,446,9270,476,9277,507,9280,506,9286,475,9283,444,9275,416,9262,391,9242,383,9227,374,9200,359,9115,345,8995,332,8843,308,8470,289,8043,262,7213,250,6721"/>
+<area shape="rect" id="Node000274" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title="OpOrInterfaceRewritePatternBase is a wrapper around RewritePattern that allows for matching and rewri..." alt="" coords="485,3378,727,3418"/>
+<area shape="poly" id="edge350_Node000033_Node000274" title=" " alt="" coords="336,6674,343,6667,352,6647,360,6613,372,6503,380,6346,384,6150,385,5672,379,5131,371,4588,367,4107,372,3750,379,3636,391,3577,407,3549,426,3523,472,3478,520,3442,563,3416,566,3421,523,3447,475,3482,430,3527,411,3552,396,3579,385,3637,377,3750,372,4107,376,4588,384,5131,390,5672,390,6150,385,6347,377,6504,365,6614,357,6649,348,6670,340,6678"/>
+<area shape="rect" id="Node000035" href="$structmlir_1_1EndomorphismSimplification.html" title=" " alt="" coords="867,3141,1181,3225"/>
+<area shape="poly" id="edge109_Node000034_Node000035" title=" " alt="" coords="833,3186,866,3185,866,3191,833,3191"/>
+<area shape="rect" id="Node000037" href="$structDropUnitDimFromElementwiseOps.html" title="For vectors with at least one unit dim, replaces: elementwise(a, b) with: sc_a = shape_cast(a) sc_b =..." alt="" coords="899,3512,1149,3537"/>
+<area shape="poly" id="edge111_Node000036_Node000037" title=" " alt="" coords="701,3584,866,3547,937,3535,938,3540,867,3553,702,3589"/>
+<area shape="rect" id="Node000039" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="932,1917,1116,1957"/>
+<area shape="poly" id="edge113_Node000038_Node000039" title=" " alt="" coords="613,2435,639,2338,660,2276,687,2210,720,2143,761,2078,809,2018,865,1967,897,1949,931,1939,933,1944,899,1954,868,1971,813,2022,765,2081,725,2146,692,2213,665,2278,644,2340,618,2437"/>
+<area shape="poly" id="edge114_Node000039_Node000040" title=" " alt="" coords="1129,1924,1301,1907,1302,1913,1130,1929"/>
+<area shape="rect" id="Node000042" href="$structDropUnitDimsFromTransposeOp.html" title="A pattern to drop unit dims from vector.transpose." alt="" coords="1269,1939,1499,1964"/>
+<area shape="poly" id="edge115_Node000039_Node000042" title=" " alt="" coords="1130,1938,1268,1944,1268,1949,1130,1944"/>
+<area shape="rect" id="Node000031" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,3250,1109,3290"/>
+<area shape="poly" id="edge117_Node000032_Node000031" title=" " alt="" coords="737,3302,938,3278,938,3283,737,3308"/>
+<area shape="poly" id="edge118_Node000031_Node000030" title=" " alt="" coords="1122,3248,1181,3235,1229,3223,1324,3206,1325,3212,1230,3229,1182,3241,1124,3253"/>
+<area shape="rect" id="Node000044" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,3562,1109,3602"/>
+<area shape="poly" id="edge120_Node000043_Node000044" title=" " alt="" coords="701,3687,817,3640,841,3625,866,3612,938,3591,939,3597,868,3616,844,3630,820,3644,703,3692"/>
+<area shape="rect" id="Node000045" href="$structAbsFOpToAPFloatConversion.html" title=" " alt="" coords="1279,3367,1489,3392"/>
+<area shape="poly" id="edge121_Node000044_Node000045" title=" " alt="" coords="1122,3575,1153,3565,1180,3548,1194,3531,1200,3514,1202,3477,1205,3439,1212,3420,1228,3403,1251,3387,1278,3378,1280,3383,1254,3392,1231,3407,1217,3423,1210,3440,1208,3477,1206,3515,1198,3534,1183,3552,1155,3570,1124,3581"/>
+<area shape="rect" id="Node000047" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,3626,1109,3666"/>
+<area shape="poly" id="edge123_Node000046_Node000047" title=" " alt="" coords="650,3875,989,3664,992,3669,653,3880"/>
+<area shape="rect" id="Node000048" href="$structAllocaScopeHoister.html" title="Move allocations into an allocation scope, if it is legal to move them (e.g." alt="" coords="1310,3465,1458,3491"/>
+<area shape="poly" id="edge124_Node000047_Node000048" title=" " alt="" coords="1122,3638,1152,3628,1180,3612,1191,3599,1198,3586,1202,3558,1207,3529,1215,3515,1228,3501,1246,3490,1267,3481,1309,3473,1310,3478,1268,3486,1249,3494,1231,3505,1219,3518,1212,3531,1208,3559,1203,3588,1196,3602,1183,3616,1155,3633,1123,3643"/>
+<area shape="rect" id="Node000049" href="$structAllocaScopeInliner.html" title="Inline an AllocaScopeOp if either the direct parent is an allocation scope or it contains no allocati..." alt="" coords="1313,3416,1455,3441"/>
+<area shape="poly" id="edge125_Node000047_Node000049" title=" " alt="" coords="1122,3640,1153,3629,1180,3612,1195,3593,1201,3574,1202,3534,1203,3492,1211,3472,1228,3452,1246,3439,1268,3430,1312,3422,1313,3427,1269,3435,1249,3444,1231,3456,1216,3474,1209,3493,1208,3534,1207,3575,1199,3596,1183,3616,1155,3634,1124,3645"/>
+<area shape="rect" id="Node000051" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,3821,1109,3861"/>
+<area shape="poly" id="edge127_Node000050_Node000051" title=" " alt="" coords="659,4019,981,3858,984,3863,661,4024"/>
+<area shape="rect" id="Node000052" href="$structBinaryArithOpToAPFloatConversion.html" title="Rewrite a binary arithmetic operation to an APFloat function call." alt="" coords="1259,4077,1509,4117"/>
+<area shape="poly" id="edge128_Node000051_Node000052" title=" " alt="" coords="1047,3871,1077,3915,1120,3967,1171,4019,1231,4062,1259,4075,1257,4080,1228,4067,1168,4023,1116,3971,1073,3918,1043,3874"/>
+<area shape="rect" id="Node000053" href="$structFpToFpConversion.html" title=" " alt="" coords="1283,3515,1485,3540"/>
+<area shape="poly" id="edge129_Node000051_Node000053" title=" " alt="" coords="1058,3810,1119,3752,1151,3715,1179,3677,1193,3642,1197,3610,1204,3580,1213,3565,1228,3551,1253,3535,1282,3526,1283,3531,1256,3540,1231,3555,1217,3568,1209,3582,1203,3611,1198,3643,1184,3679,1155,3719,1123,3755,1062,3814"/>
+<area shape="rect" id="Node000054" href="$structFpToIntConversion.html" title=" " alt="" coords="1307,3565,1461,3605"/>
+<area shape="poly" id="edge130_Node000051_Node000054" title=" " alt="" coords="1054,3809,1113,3748,1179,3676,1201,3643,1211,3628,1228,3614,1266,3597,1306,3587,1308,3592,1268,3602,1231,3619,1215,3632,1205,3646,1183,3680,1117,3752,1058,3812"/>
+<area shape="rect" id="Node000055" href="$structInsertSliceOfInsertSliceFolder.html" title=" " alt="" coords="1297,3629,1471,3669"/>
+<area shape="poly" id="edge131_Node000051_Node000055" title=" " alt="" coords="1052,3809,1128,3742,1176,3707,1228,3678,1262,3666,1297,3657,1298,3662,1263,3671,1230,3683,1179,3712,1131,3746,1056,3813"/>
+<area shape="rect" id="Node000056" href="$structIntToFpConversion.html" title=" " alt="" coords="1307,3693,1461,3733"/>
+<area shape="poly" id="edge132_Node000051_Node000056" title=" " alt="" coords="1072,3812,1144,3776,1229,3742,1307,3722,1308,3727,1230,3747,1147,3781,1074,3817"/>
+<area shape="rect" id="Node000057" href="$structIsOpToAPFloatConversion.html" title=" " alt="" coords="1290,3757,1478,3797"/>
+<area shape="poly" id="edge133_Node000051_Node000057" title=" " alt="" coords="1123,3821,1289,3791,1290,3796,1124,3826"/>
+<area shape="rect" id="Node000058" href="$classmlir_1_1acc_1_1ACCOpEraseConversion.html" title="Pattern to simply erase an ACC op (for ops with no results)." alt="" coords="1264,3821,1504,3861"/>
+<area shape="poly" id="edge134_Node000051_Node000058" title=" " alt="" coords="1123,3838,1264,3838,1264,3843,1123,3843"/>
+<area shape="rect" id="Node000059" href="$classmlir_1_1acc_1_1ACCOpReplaceWithVarConversion.html" title="Pattern to replace an ACC op with its var operand." alt="" coords="1277,3885,1491,3925"/>
+<area shape="poly" id="edge135_Node000051_Node000059" title=" " alt="" coords="1123,3855,1278,3883,1277,3888,1122,3861"/>
+<area shape="rect" id="Node000060" href="$classmlir_1_1acc_1_1ACCRegionUnwrapConversion.html" title="Pattern to unwrap a region from an ACC op and erase the wrapper." alt="" coords="1280,3949,1488,3989"/>
+<area shape="poly" id="edge136_Node000051_Node000060" title=" " alt="" coords="1074,3865,1147,3900,1230,3934,1281,3948,1279,3953,1228,3939,1144,3905,1072,3869"/>
+<area shape="rect" id="Node000061" href="$structmlir_1_1amdgpu_1_1FoldMemRefOpsIntoDmaBaseOp.html" title=" " alt="" coords="1277,4013,1491,4053"/>
+<area shape="poly" id="edge137_Node000051_Node000061" title=" " alt="" coords="1056,3869,1131,3935,1179,3969,1230,3998,1277,4015,1275,4020,1228,4003,1176,3974,1128,3939,1052,3873"/>
+<area shape="rect" id="Node000063" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="932,4209,1116,4249"/>
+<area shape="poly" id="edge139_Node000062_Node000063" title=" " alt="" coords="723,4262,932,4237,932,4242,723,4267"/>
+<area shape="rect" id="Node000064" href="$structBreakDownVectorReduction.html" title="Example:" alt="" coords="1283,4240,1485,4265"/>
+<area shape="poly" id="edge140_Node000063_Node000064" title=" " alt="" coords="1130,4233,1282,4243,1282,4249,1130,4238"/>
+<area shape="rect" id="Node000065" href="$structChainedReduction.html" title="Pattern to fold chained reduction to a series of vector additions and a final reduction...." alt="" coords="1314,4141,1454,4167"/>
+<area shape="poly" id="edge141_Node000063_Node000065" title=" " alt="" coords="1115,4203,1229,4177,1313,4162,1314,4167,1230,4182,1116,4208"/>
+<area shape="rect" id="Node000066" href="$structReduceRedundantZero.html" title="Pattern to eliminate redundant zero&#45;constants added to reduction operands. It&#39;s enough for there to b..." alt="" coords="1299,4191,1469,4216"/>
+<area shape="poly" id="edge142_Node000063_Node000066" title=" " alt="" coords="1130,4219,1298,4207,1299,4212,1130,4224"/>
+<area shape="rect" id="Node000068" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="920,4411,1128,4436"/>
+<area shape="poly" id="edge144_Node000067_Node000068" title=" " alt="" coords="716,4439,920,4427,920,4432,716,4445"/>
+<area shape="rect" id="Node000069" href="$structCanonicalizeAffineMinMaxOpExprAndTermOrder.html" title="Canonicalize the affine map result expression order of an affine min/max operation." alt="" coords="1284,4339,1484,4379"/>
+<area shape="poly" id="edge145_Node000068_Node000069" title=" " alt="" coords="1109,4406,1283,4374,1284,4380,1110,4411"/>
+<area shape="rect" id="Node000070" href="$structCanonicalizeSingleResultAffineMinMaxOp.html" title=" " alt="" coords="1291,4403,1477,4443"/>
+<area shape="poly" id="edge146_Node000068_Node000070" title=" " alt="" coords="1142,4421,1290,4421,1290,4426,1142,4426"/>
+<area shape="rect" id="Node000071" href="$structDeduplicateAffineMinMaxExpressions.html" title="Remove duplicated expressions in affine min/max ops." alt="" coords="1231,4468,1537,4493"/>
+<area shape="poly" id="edge147_Node000068_Node000071" title=" " alt="" coords="1119,4436,1304,4465,1303,4471,1118,4441"/>
+<area shape="rect" id="Node000072" href="$structMergeAffineMinMaxOp.html" title="Merge an affine min/max op to its consumers if its consumer is also an affine min/max op." alt="" coords="1279,4289,1489,4315"/>
+<area shape="poly" id="edge148_Node000068_Node000072" title=" " alt="" coords="1058,4402,1134,4362,1229,4325,1280,4312,1282,4317,1230,4330,1137,4367,1060,4406"/>
+<area shape="rect" id="Node000074" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,4578,1109,4618"/>
+<area shape="poly" id="edge150_Node000073_Node000074" title=" " alt="" coords="746,4616,938,4602,938,4607,747,4621"/>
+<area shape="rect" id="Node000075" href="$structCanonicalizeContractAdd.html" title="Return a fused vector::ContractionOp which represents a patterns such as:" alt="" coords="1291,4518,1477,4558"/>
+<area shape="poly" id="edge151_Node000074_Node000075" title=" " alt="" coords="1123,4579,1290,4551,1291,4556,1123,4584"/>
+<area shape="rect" id="Node000077" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="927,4711,1121,4751"/>
+<area shape="poly" id="edge153_Node000076_Node000077" title=" " alt="" coords="723,4759,926,4738,927,4744,723,4764"/>
+<area shape="rect" id="Node000078" href="$structmlir_1_1vector_1_1MaskableOpRewritePattern.html" title=" " alt="" coords="1291,4632,1477,4687"/>
+<area shape="poly" id="edge154_Node000077_Node000078" title=" " alt="" coords="1134,4707,1291,4675,1292,4680,1135,4712"/>
+<area shape="rect" id="Node000080" href="$structCanonicalizeContractMatmulToMMT.html" title="Canonicalization of a vector.contract a, b, c with row&#45;major matmul semantics to a contraction suitab..." alt="" coords="1279,4711,1489,4751"/>
+<area shape="poly" id="edge156_Node000077_Node000080" title=" " alt="" coords="1135,4729,1278,4729,1278,4734,1135,4734"/>
+<area shape="rect" id="Node000081" href="$structFoldArithExtIntoContractionOp.html" title="Pattern to fold arithmetic extensions on floating point data types into vector contraction operations..." alt="" coords="1283,4775,1485,4815"/>
+<area shape="poly" id="edge157_Node000077_Node000081" title=" " alt="" coords="1135,4748,1284,4775,1283,4780,1134,4754"/>
+<area shape="rect" id="Node000082" href="$structVectorContractBF16ToFMA.html" title=" " alt="" coords="1287,4583,1481,4608"/>
+<area shape="poly" id="edge158_Node000077_Node000082" title=" " alt="" coords="1065,4701,1139,4658,1183,4636,1229,4618,1286,4604,1287,4609,1230,4623,1185,4641,1142,4663,1068,4706"/>
+<area shape="rect" id="Node000079" href="$structContractOpToElementwise.html" title="Lower vector.contract with all size one reduction dimensions to elementwise ops when possible." alt="" coords="1607,4647,1800,4672"/>
+<area shape="poly" id="edge155_Node000078_Node000079" title=" " alt="" coords="1490,4657,1606,4657,1606,4662,1490,4662"/>
+<area shape="rect" id="Node000084" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,4873,1109,4913"/>
+<area shape="poly" id="edge160_Node000083_Node000084" title=" " alt="" coords="717,4890,939,4890,939,4895,717,4895"/>
+<area shape="rect" id="Node000085" href="$structClampClampOptimization.html" title=" " alt="" coords="1289,4889,1479,4915"/>
+<area shape="poly" id="edge161_Node000084_Node000085" title=" " alt="" coords="1123,4893,1288,4897,1288,4902,1123,4898"/>
+<area shape="rect" id="Node000086" href="$structClampIsNoOp.html" title=" " alt="" coords="1329,4840,1439,4865"/>
+<area shape="poly" id="edge162_Node000084_Node000086" title=" " alt="" coords="1123,4879,1328,4856,1329,4861,1123,4884"/>
+<area shape="rect" id="Node000088" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,4941,1109,4981"/>
+<area shape="poly" id="edge164_Node000087_Node000088" title=" " alt="" coords="737,4961,938,4959,938,4964,738,4966"/>
+<area shape="rect" id="Node000089" href="$classCmpFIntToFPConst.html" title=" " alt="" coords="1312,4939,1456,4964"/>
+<area shape="poly" id="edge165_Node000088_Node000089" title=" " alt="" coords="1123,4955,1312,4951,1312,4956,1123,4961"/>
+<area shape="rect" id="Node000091" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5011,1109,5051"/>
+<area shape="poly" id="edge167_Node000090_Node000091" title=" " alt="" coords="717,5033,938,5030,938,5035,717,5038"/>
+<area shape="rect" id="Node000092" href="$structCmpFOpToAPFloatConversion.html" title=" " alt="" coords="1277,4988,1491,5013"/>
+<area shape="poly" id="edge168_Node000091_Node000092" title=" " alt="" coords="1123,5020,1276,5007,1277,5012,1124,5026"/>
+<area shape="rect" id="Node000094" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5082,1109,5122"/>
+<area shape="poly" id="edge170_Node000093_Node000094" title=" " alt="" coords="767,5103,938,5101,939,5106,767,5109"/>
+<area shape="rect" id="Node000095" href="$structCollapseShapeOpMemRefCastFolder.html" title=" " alt="" coords="1274,5038,1494,5078"/>
+<area shape="poly" id="edge171_Node000094_Node000095" title=" " alt="" coords="1123,5087,1274,5069,1274,5074,1123,5093"/>
+<area shape="rect" id="Node000097" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5154,1109,5194"/>
+<area shape="poly" id="edge173_Node000096_Node000097" title=" " alt="" coords="717,5176,939,5173,939,5178,717,5182"/>
+<area shape="rect" id="Node000098" href="$structConcatOptimization.html" title=" " alt="" coords="1309,5103,1459,5128"/>
+<area shape="poly" id="edge174_Node000097_Node000098" title=" " alt="" coords="1122,5155,1308,5125,1309,5130,1123,5161"/>
+<area shape="rect" id="Node000100" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5229,1109,5269"/>
+<area shape="poly" id="edge176_Node000099_Node000100" title=" " alt="" coords="717,5254,939,5248,939,5253,717,5259"/>
+<area shape="rect" id="Node000101" href="$structConcatSliceOptimization.html" title=" " alt="" coords="1293,5251,1475,5276"/>
+<area shape="poly" id="edge177_Node000100_Node000101" title=" " alt="" coords="1123,5250,1292,5257,1292,5262,1123,5255"/>
+<area shape="rect" id="Node000102" href="$structPadSliceOptimization.html" title=" " alt="" coords="1304,5152,1464,5177"/>
+<area shape="poly" id="edge178_Node000100_Node000102" title=" " alt="" coords="1114,5222,1181,5203,1229,5187,1303,5173,1304,5178,1230,5193,1182,5209,1116,5228"/>
+<area shape="rect" id="Node000103" href="$structSliceDynamicSizeCanonicalization.html" title=" " alt="" coords="1261,5201,1507,5227"/>
+<area shape="poly" id="edge179_Node000100_Node000103" title=" " alt="" coords="1123,5237,1260,5223,1261,5229,1123,5242"/>
+<area shape="rect" id="Node000105" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5318,1109,5358"/>
+<area shape="poly" id="edge181_Node000104_Node000105" title=" " alt="" coords="717,5335,939,5335,939,5341,717,5341"/>
+<area shape="rect" id="Node000106" href="$structConsolidateTransposeOptimization.html" title=" " alt="" coords="1260,5349,1508,5375"/>
+<area shape="poly" id="edge182_Node000105_Node000106" title=" " alt="" coords="1123,5342,1260,5351,1260,5356,1123,5347"/>
+<area shape="rect" id="Node000107" href="$structTransposeIsReshape.html" title=" " alt="" coords="1307,5300,1461,5325"/>
+<area shape="poly" id="edge183_Node000105_Node000107" title=" " alt="" coords="1123,5328,1306,5315,1306,5321,1123,5334"/>
+<area shape="rect" id="Node000109" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="927,5431,1121,5471"/>
+<area shape="poly" id="edge185_Node000108_Node000109" title=" " alt="" coords="749,5426,927,5441,927,5446,748,5431"/>
+<area shape="rect" id="Node000110" href="$classConvert1DExtractStridedSliceIntoExtractInsertChain.html" title="For a 1&#45;D ExtractStridedSlice, breaks it down into a chain of Extract ops to extract each element fro..." alt="" coords="1277,5527,1491,5567"/>
+<area shape="poly" id="edge186_Node000109_Node000110" title=" " alt="" coords="1097,5473,1230,5513,1280,5525,1279,5530,1229,5518,1096,5478"/>
+<area shape="rect" id="Node000111" href="$classConvert1DExtractStridedSliceIntoShuffle.html" title="RewritePattern for ExtractStridedSliceOp where source and destination vectors are 1&#45;D." alt="" coords="1277,5399,1491,5439"/>
+<area shape="poly" id="edge187_Node000109_Node000111" title=" " alt="" coords="1135,5439,1276,5426,1277,5431,1135,5444"/>
+<area shape="rect" id="Node000112" href="$classDecomposeNDExtractStridedSlice.html" title="RewritePattern for ExtractStridedSliceOp where the source vector is n&#45;D." alt="" coords="1279,5463,1489,5503"/>
+<area shape="poly" id="edge188_Node000109_Node000112" title=" " alt="" coords="1135,5458,1279,5471,1278,5477,1134,5464"/>
+<area shape="rect" id="Node000114" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5553,1109,5593"/>
+<area shape="poly" id="edge190_Node000113_Node000114" title=" " alt="" coords="736,5504,819,5519,949,5550,948,5555,818,5525,735,5510"/>
+<area shape="rect" id="Node000115" href="$structConvertFsubToFnegFadd.html" title=" " alt="" coords="1294,5592,1474,5617"/>
+<area shape="poly" id="edge191_Node000114_Node000115" title=" " alt="" coords="1123,5579,1294,5594,1293,5599,1123,5584"/>
+<area shape="rect" id="Node000117" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="932,5642,1116,5682"/>
+<area shape="poly" id="edge193_Node000116_Node000117" title=" " alt="" coords="744,5582,819,5598,963,5639,961,5644,818,5603,743,5587"/>
+<area shape="rect" id="Node000118" href="$classConvertSameRankInsertStridedSliceIntoShuffle.html" title="RewritePattern for InsertStridedSliceOp where source and destination vectors have the same rank." alt="" coords="1271,5706,1497,5746"/>
+<area shape="poly" id="edge194_Node000117_Node000118" title=" " alt="" coords="1130,5678,1271,5703,1270,5709,1129,5683"/>
+<area shape="rect" id="Node000119" href="$classDecomposeDifferentRankInsertStridedSlice.html" title="RewritePattern for InsertStridedSliceOp where source and destination vectors have different ranks." alt="" coords="1271,5642,1497,5682"/>
+<area shape="poly" id="edge195_Node000117_Node000119" title=" " alt="" coords="1130,5659,1271,5659,1271,5665,1130,5665"/>
+<area shape="rect" id="Node000121" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="922,5770,1126,5810"/>
+<area shape="poly" id="edge197_Node000120_Node000121" title=" " alt="" coords="723,5652,772,5663,820,5677,869,5697,917,5721,994,5767,991,5772,914,5726,867,5702,818,5682,771,5668,722,5657"/>
+<area shape="rect" id="Node000122" href="$classDropInnerMostUnitDimsTransferRead.html" title="Drop inner most contiguous unit dimensions from transfer_read operand." alt="" coords="1252,5835,1516,5860"/>
+<area shape="poly" id="edge198_Node000121_Node000122" title=" " alt="" coords="1140,5806,1304,5832,1303,5837,1139,5811"/>
+<area shape="rect" id="Node000123" href="$structmlir_1_1linalg_1_1LinalgCopyVTRForwardingPattern.html" title="Match and rewrite for the pattern:" alt="" coords="1298,5770,1470,5810"/>
+<area shape="poly" id="edge199_Node000121_Node000123" title=" " alt="" coords="1140,5787,1298,5787,1298,5793,1140,5793"/>
+<area shape="rect" id="Node000125" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="921,5839,1127,5879"/>
+<area shape="poly" id="edge201_Node000124_Node000125" title=" " alt="" coords="724,5722,773,5734,820,5756,837,5772,845,5789,853,5805,868,5820,894,5833,921,5843,919,5848,891,5838,865,5824,849,5808,840,5791,833,5775,817,5760,772,5739,722,5727"/>
+<area shape="rect" id="Node000126" href="$classDropInnerMostUnitDimsTransferWrite.html" title="Drop inner most contiguous unit dimensions from transfer_write operand. E.g., vector...." alt="" coords="1269,5949,1499,5989"/>
+<area shape="poly" id="edge202_Node000125_Node000126" title=" " alt="" coords="1142,5873,1183,5889,1198,5900,1207,5912,1216,5924,1231,5934,1269,5950,1267,5955,1228,5939,1213,5928,1203,5916,1194,5904,1180,5894,1140,5878"/>
+<area shape="rect" id="Node000127" href="$structmlir_1_1linalg_1_1LinalgCopyVTWForwardingPattern.html" title="Match and rewrite for the pattern:" alt="" coords="1298,5885,1470,5925"/>
+<area shape="poly" id="edge203_Node000125_Node000127" title=" " alt="" coords="1142,5871,1298,5891,1297,5897,1141,5877"/>
+<area shape="rect" id="Node000129" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5903,1109,5943"/>
+<area shape="poly" id="edge205_Node000128_Node000129" title=" " alt="" coords="717,5801,770,5813,820,5834,836,5848,845,5863,853,5876,868,5889,902,5904,939,5914,938,5919,901,5909,865,5894,849,5880,840,5865,832,5851,817,5839,768,5818,715,5806"/>
+<area shape="rect" id="Node000130" href="$structDropUnitDimsFromScfForOp.html" title="A pattern to drop unit dims from the iter_args of an scf.for." alt="" coords="1281,6013,1487,6039"/>
+<area shape="poly" id="edge206_Node000129_Node000130" title=" " alt="" coords="1123,5932,1154,5941,1183,5953,1198,5964,1207,5977,1216,5988,1231,5998,1282,6015,1280,6020,1228,6003,1213,5992,1203,5980,1194,5968,1180,5958,1152,5946,1122,5937"/>
+<area shape="rect" id="Node000132" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,5967,1109,6007"/>
+<area shape="poly" id="edge208_Node000131_Node000132" title=" " alt="" coords="764,5878,820,5900,836,5913,845,5927,853,5941,868,5953,903,5968,939,5978,938,5983,901,5973,865,5958,849,5944,841,5930,832,5916,817,5904,762,5883"/>
+<area shape="rect" id="Node000133" href="$structExpandShapeOpMemRefCastFolder.html" title=" " alt="" coords="1258,6063,1510,6088"/>
+<area shape="poly" id="edge209_Node000132_Node000133" title=" " alt="" coords="1124,5999,1182,6017,1207,6033,1230,6049,1267,6060,1266,6065,1228,6054,1204,6038,1180,6022,1122,6004"/>
+<area shape="rect" id="Node000135" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6031,1109,6071"/>
+<area shape="poly" id="edge211_Node000134_Node000135" title=" " alt="" coords="720,5949,770,5960,820,5978,835,5988,845,5998,854,6008,868,6017,903,6030,939,6039,938,6044,901,6035,865,6022,851,6012,841,6002,831,5992,817,5983,769,5965,719,5954"/>
+<area shape="rect" id="Node000136" href="$structFmaOpToAPFloatConversion.html" title=" " alt="" coords="1281,6112,1487,6137"/>
+<area shape="poly" id="edge212_Node000135_Node000136" title=" " alt="" coords="1124,6067,1182,6081,1230,6098,1284,6109,1283,6115,1229,6103,1181,6086,1122,6072"/>
+<area shape="rect" id="Node000138" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6095,1109,6135"/>
+<area shape="poly" id="edge214_Node000137_Node000138" title=" " alt="" coords="721,6032,820,6057,844,6069,868,6081,939,6100,938,6105,866,6086,841,6074,818,6062,720,6037"/>
+<area shape="rect" id="Node000139" href="$structFoldAddIntoDest.html" title="Replace a linalg.add with one operand the single user of a contraction, which has a zero&#45;filled,..." alt="" coords="1319,6161,1449,6187"/>
+<area shape="poly" id="edge215_Node000138_Node000139" title=" " alt="" coords="1123,6130,1230,6147,1320,6162,1319,6167,1229,6153,1122,6135"/>
+<area shape="rect" id="Node000141" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="935,6159,1113,6199"/>
+<area shape="poly" id="edge217_Node000140_Node000141" title=" " alt="" coords="721,6116,819,6135,935,6159,934,6164,818,6141,720,6122"/>
+<area shape="rect" id="Node000142" href="$structFoldBroadcasts.html" title="Fold back&#45;to&#45;back broadcasts together." alt="" coords="1323,6211,1445,6236"/>
+<area shape="poly" id="edge218_Node000141_Node000142" title=" " alt="" coords="1127,6189,1324,6213,1323,6219,1127,6194"/>
+<area shape="rect" id="Node000144" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6223,1109,6263"/>
+<area shape="poly" id="edge220_Node000143_Node000144" title=" " alt="" coords="742,6188,819,6201,939,6223,938,6229,818,6206,741,6193"/>
+<area shape="rect" id="Node000145" href="$structFoldLaunchArguments.html" title="Simplify the gpu.launch when the range of a thread or block ID is trivially known to be one." alt="" coords="1301,6260,1467,6285"/>
+<area shape="poly" id="edge221_Node000144_Node000145" title=" " alt="" coords="1123,6249,1300,6263,1300,6269,1123,6254"/>
+<area shape="rect" id="Node000147" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="883,6287,1165,6327"/>
+<area shape="poly" id="edge223_Node000146_Node000147" title=" " alt="" coords="740,6260,896,6285,895,6290,739,6265"/>
+<area shape="rect" id="Node000148" href="$structFoldTensorCastProducerOp.html" title="Folds a tensor.cast op into a consuming DestinationStyleOpInterface op if the tensor...." alt="" coords="1287,6309,1481,6335"/>
+<area shape="poly" id="edge224_Node000147_Node000148" title=" " alt="" coords="1179,6311,1287,6315,1286,6321,1179,6316"/>
+<area shape="rect" id="Node000150" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="935,6351,1113,6391"/>
+<area shape="poly" id="edge226_Node000149_Node000150" title=" " alt="" coords="720,6332,935,6358,934,6363,720,6337"/>
+<area shape="rect" id="Node000151" href="$structFoldTransposeWithTranspose.html" title="Fold transpose with transpose." alt="" coords="1279,6408,1489,6433"/>
+<area shape="poly" id="edge227_Node000150_Node000151" title=" " alt="" coords="1128,6383,1291,6405,1290,6411,1127,6388"/>
+<area shape="rect" id="Node000152" href="$structSwapTransposeWithBroadcast.html" title="This pattern canonicalize transpose by swapping the order of broadcast and transpose: transpose(broad..." alt="" coords="1275,6359,1493,6384"/>
+<area shape="poly" id="edge228_Node000150_Node000152" title=" " alt="" coords="1127,6369,1275,6369,1275,6374,1127,6374"/>
+<area shape="rect" id="Node000154" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6415,1109,6455"/>
+<area shape="poly" id="edge230_Node000153_Node000154" title=" " alt="" coords="766,6406,939,6424,938,6429,765,6412"/>
+<area shape="rect" id="Node000155" href="$classFromElementsToShapeCast.html" title="Rewrite from_elements on multiple scalar extracts as a shape_cast on a single extract." alt="" coords="1285,6457,1483,6483"/>
+<area shape="poly" id="edge231_Node000154_Node000155" title=" " alt="" coords="1124,6442,1285,6458,1284,6463,1123,6448"/>
+<area shape="rect" id="Node000157" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="937,6479,1111,6519"/>
+<area shape="poly" id="edge233_Node000156_Node000157" title=" " alt="" coords="718,6471,937,6490,937,6495,718,6477"/>
+<area shape="rect" id="Node000158" href="$structIAddCarryFold.html" title=" " alt="" coords="1327,6507,1441,6532"/>
+<area shape="poly" id="edge234_Node000157_Node000158" title=" " alt="" coords="1125,6502,1327,6514,1327,6519,1124,6508"/>
+<area shape="rect" id="Node000160" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="935,6543,1113,6583"/>
+<area shape="poly" id="edge236_Node000159_Node000160" title=" " alt="" coords="717,6546,935,6556,934,6562,716,6551"/>
+<area shape="rect" id="Node000161" href="$structMaxPool2dIsNoOp.html" title=" " alt="" coords="1313,6556,1455,6581"/>
+<area shape="poly" id="edge237_Node000160_Node000161" title=" " alt="" coords="1127,6562,1313,6565,1313,6570,1127,6568"/>
+<area shape="rect" id="Node000163" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6607,1109,6647"/>
+<area shape="poly" id="edge239_Node000162_Node000163" title=" " alt="" coords="717,6621,938,6624,938,6629,717,6626"/>
+<area shape="rect" id="Node000164" href="$structMergeArithBitcast.html" title=" " alt="" coords="1315,6615,1453,6640"/>
+<area shape="poly" id="edge240_Node000163_Node000164" title=" " alt="" coords="1123,6625,1315,6625,1315,6630,1123,6630"/>
+<area shape="rect" id="Node000166" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6674,1109,6714"/>
+<area shape="poly" id="edge242_Node000165_Node000166" title=" " alt="" coords="741,6691,938,6691,938,6697,741,6697"/>
+<area shape="rect" id="Node000167" href="$structMergeComplexBitcast.html" title=" " alt="" coords="1301,6681,1467,6707"/>
+<area shape="poly" id="edge243_Node000166_Node000167" title=" " alt="" coords="1123,6691,1300,6691,1300,6697,1123,6697"/>
+<area shape="rect" id="Node000169" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6738,1109,6778"/>
+<area shape="poly" id="edge245_Node000168_Node000169" title=" " alt="" coords="731,6755,938,6755,938,6761,731,6761"/>
+<area shape="rect" id="Node000170" href="$structMulExtendedFold.html" title=" " alt="" coords="1287,6738,1481,6778"/>
+<area shape="poly" id="edge246_Node000169_Node000170" title=" " alt="" coords="1123,6755,1286,6755,1286,6761,1123,6761"/>
+<area shape="rect" id="Node000172" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6802,1109,6842"/>
+<area shape="poly" id="edge248_Node000171_Node000172" title=" " alt="" coords="767,6819,939,6819,939,6825,767,6825"/>
+<area shape="rect" id="Node000173" href="$structMultiBlockExecuteInliner.html" title=" " alt="" coords="1293,6809,1475,6835"/>
+<area shape="poly" id="edge249_Node000172_Node000173" title=" " alt="" coords="1123,6819,1292,6819,1292,6825,1123,6825"/>
+<area shape="rect" id="Node000175" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6874,1109,6914"/>
+<area shape="poly" id="edge251_Node000174_Node000175" title=" " alt="" coords="717,6891,938,6891,938,6897,717,6897"/>
+<area shape="rect" id="Node000176" href="$structNegFOpToAPFloatConversion.html" title=" " alt="" coords="1279,6881,1489,6907"/>
+<area shape="poly" id="edge252_Node000175_Node000176" title=" " alt="" coords="1124,6891,1279,6891,1279,6897,1124,6897"/>
+<area shape="rect" id="Node000178" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,6953,1109,6993"/>
+<area shape="poly" id="edge254_Node000177_Node000178" title=" " alt="" coords="717,6970,939,6970,939,6975,717,6975"/>
+<area shape="rect" id="Node000179" href="$structNonNarrowingCastsOptimization.html" title=" " alt="" coords="1267,6960,1501,6985"/>
+<area shape="poly" id="edge255_Node000178_Node000179" title=" " alt="" coords="1123,6970,1267,6970,1267,6975,1123,6975"/>
+<area shape="rect" id="Node000181" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="922,7031,1126,7071"/>
+<area shape="poly" id="edge257_Node000180_Node000181" title=" " alt="" coords="723,7049,922,7049,922,7054,723,7054"/>
+<area shape="rect" id="Node000182" href="$classOuterProductOpLowering.html" title="Progressive lowering of OuterProductOp." alt="" coords="1292,7039,1476,7064"/>
+<area shape="poly" id="edge258_Node000181_Node000182" title=" " alt="" coords="1140,7049,1292,7049,1292,7054,1140,7054"/>
+<area shape="rect" id="Node000184" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7103,1109,7143"/>
+<area shape="poly" id="edge260_Node000183_Node000184" title=" " alt="" coords="741,7121,938,7121,938,7126,741,7126"/>
+<area shape="rect" id="Node000185" href="$structRemoveUnusedLvlCrds.html" title=" " alt="" coords="1297,7111,1471,7136"/>
+<area shape="poly" id="edge261_Node000184_Node000185" title=" " alt="" coords="1123,7121,1297,7121,1297,7126,1123,7126"/>
+<area shape="rect" id="Node000187" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7171,1109,7211"/>
+<area shape="poly" id="edge263_Node000186_Node000187" title=" " alt="" coords="717,7192,938,7189,938,7195,717,7197"/>
+<area shape="rect" id="Node000188" href="$structSelectToExtUI.html" title=" " alt="" coords="1329,7173,1439,7199"/>
+<area shape="poly" id="edge264_Node000187_Node000188" title=" " alt="" coords="1123,7187,1328,7184,1328,7189,1123,7193"/>
+<area shape="rect" id="Node000190" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7239,1109,7279"/>
+<area shape="poly" id="edge266_Node000189_Node000190" title=" " alt="" coords="747,7262,938,7258,938,7264,747,7267"/>
+<area shape="rect" id="Node000191" href="$structSinkVectorProducerOps.html" title="Sink vector producers forward to reduce live ranges." alt="" coords="1297,7223,1471,7263"/>
+<area shape="poly" id="edge267_Node000190_Node000191" title=" " alt="" coords="1123,7252,1297,7244,1297,7250,1123,7258"/>
+<area shape="rect" id="Node000193" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="926,7319,1122,7359"/>
+<area shape="poly" id="edge269_Node000192_Node000193" title=" " alt="" coords="723,7337,926,7337,926,7342,723,7342"/>
+<area shape="rect" id="Node000194" href="$structSwapExtractSliceOfFill.html" title="swaps: tensor.extract_slice(linalg.fill(cst, init)) with: linalg.fill(cst, tensor...." alt="" coords="1300,7352,1468,7377"/>
+<area shape="poly" id="edge270_Node000193_Node000194" title=" " alt="" coords="1136,7344,1300,7356,1300,7361,1135,7350"/>
+<area shape="rect" id="Node000195" href="$structmlir_1_1linalg_1_1ExtractSliceOfPadTensorSwapPattern.html" title="Rewrite extract_slice(tensor.pad(x)) into tensor.pad(extract_slice(x))." alt="" coords="1293,7287,1475,7327"/>
+<area shape="poly" id="edge271_Node000193_Node000195" title=" " alt="" coords="1135,7327,1292,7313,1293,7318,1136,7332"/>
+<area shape="rect" id="Node000197" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7393,1109,7433"/>
+<area shape="poly" id="edge273_Node000196_Node000197" title=" " alt="" coords="756,7409,938,7410,938,7415,756,7414"/>
+<area shape="rect" id="Node000198" href="$structToElementsOfBroadcast.html" title="Canonicalize vector.to_elements(vector.broadcast(v)) where v is a vector." alt="" coords="1295,7401,1473,7427"/>
+<area shape="poly" id="edge274_Node000197_Node000198" title=" " alt="" coords="1123,7410,1295,7411,1295,7416,1123,7416"/>
+<area shape="rect" id="Node000200" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7461,1109,7501"/>
+<area shape="poly" id="edge276_Node000199_Node000200" title=" " alt="" coords="718,7480,939,7479,939,7484,718,7485"/>
+<area shape="rect" id="Node000201" href="$structUModSimplification.html" title=" " alt="" coords="1309,7451,1459,7476"/>
+<area shape="poly" id="edge277_Node000200_Node000201" title=" " alt="" coords="1123,7473,1309,7464,1309,7470,1123,7479"/>
+<area shape="rect" id="Node000203" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="922,7542,1126,7582"/>
+<area shape="poly" id="edge279_Node000202_Node000203" title=" " alt="" coords="718,7559,922,7559,922,7565,718,7565"/>
+<area shape="rect" id="Node000204" href="$structMulExtendedFold.html" title=" " alt="" coords="1285,7550,1483,7590"/>
+<area shape="poly" id="edge280_Node000203_Node000204" title=" " alt="" coords="1140,7562,1284,7565,1284,7570,1140,7567"/>
+<area shape="rect" id="Node000205" href="$structUMulExtendedOpXOne.html" title=" " alt="" coords="1299,7500,1469,7525"/>
+<area shape="poly" id="edge281_Node000203_Node000205" title=" " alt="" coords="1140,7544,1298,7522,1299,7527,1140,7549"/>
+<area shape="rect" id="Node000207" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7614,1109,7654"/>
+<area shape="poly" id="edge283_Node000206_Node000207" title=" " alt="" coords="721,7636,939,7633,939,7638,721,7642"/>
+<area shape="rect" id="Node000208" href="$classWrapFuncInClass.html" title=" " alt="" coords="1317,7615,1451,7640"/>
+<area shape="poly" id="edge284_Node000207_Node000208" title=" " alt="" coords="1123,7630,1317,7626,1317,7631,1123,7635"/>
+<area shape="rect" id="Node000210" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7685,1109,7725"/>
+<area shape="poly" id="edge286_Node000209_Node000210" title=" " alt="" coords="754,7707,939,7704,939,7709,754,7713"/>
+<area shape="rect" id="Node000211" href="$structmlir_1_1ComposeCollapseOfExpandOp.html" title="Common verifier for reshape&#45;like types." alt="" coords="1266,7664,1502,7719"/>
+<area shape="poly" id="edge287_Node000210_Node000211" title=" " alt="" coords="1123,7698,1266,7693,1266,7698,1123,7704"/>
+<area shape="rect" id="Node000213" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7754,1109,7794"/>
+<area shape="poly" id="edge289_Node000212_Node000213" title=" " alt="" coords="750,7773,938,7772,938,7777,750,7778"/>
+<area shape="rect" id="Node000214" href="$structmlir_1_1ComposeExpandOfCollapseOp.html" title=" " alt="" coords="1266,7743,1502,7797"/>
+<area shape="poly" id="edge290_Node000213_Node000214" title=" " alt="" coords="1123,7770,1266,7769,1266,7774,1123,7776"/>
+<area shape="rect" id="Node000216" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7825,1109,7865"/>
+<area shape="poly" id="edge292_Node000215_Node000216" title=" " alt="" coords="734,7839,938,7841,938,7847,734,7845"/>
+<area shape="rect" id="Node000217" href="$classmlir_1_1OpWithOffsetSizesAndStridesConstantArgumentFolder.html" title="Pattern to rewrite dynamic offsets/sizes/strides of view/slice&#45;like ops as constant arguments." alt="" coords="1244,7821,1524,7876"/>
+<area shape="poly" id="edge293_Node000216_Node000217" title=" " alt="" coords="1123,7843,1244,7844,1244,7850,1123,7848"/>
+<area shape="rect" id="Node000219" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="932,7897,1116,7937"/>
+<area shape="poly" id="edge295_Node000218_Node000219" title=" " alt="" coords="716,7911,932,7913,932,7918,716,7916"/>
+<area shape="rect" id="Node000220" href="$classmlir_1_1acc_1_1ACCDeclareEnterOpConversion.html" title="Pattern to erase acc.declare_enter and its associated acc.declare_exit." alt="" coords="1285,7901,1483,7941"/>
+<area shape="poly" id="edge296_Node000219_Node000220" title=" " alt="" coords="1130,7915,1285,7917,1285,7922,1130,7921"/>
+<area shape="rect" id="Node000222" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,7965,1109,8005"/>
+<area shape="poly" id="edge298_Node000221_Node000222" title=" " alt="" coords="760,7982,938,7982,938,7987,760,7987"/>
+<area shape="rect" id="Node000223" href="$structmlir_1_1amdgpu_1_1FoldMemRefOpsIntoGatherToLDSOp.html" title=" " alt="" coords="1285,7965,1483,8005"/>
+<area shape="poly" id="edge299_Node000222_Node000223" title=" " alt="" coords="1123,7982,1284,7982,1284,7987,1123,7987"/>
+<area shape="rect" id="Node000225" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8029,1109,8069"/>
+<area shape="poly" id="edge301_Node000224_Node000225" title=" " alt="" coords="767,8046,939,8046,939,8051,767,8051"/>
+<area shape="rect" id="Node000226" href="$structmlir_1_1amdgpu_1_1FoldMemRefOpsIntoTransposeLoadOp.html" title=" " alt="" coords="1285,8029,1483,8069"/>
+<area shape="poly" id="edge302_Node000225_Node000226" title=" " alt="" coords="1123,8046,1284,8046,1284,8051,1123,8051"/>
+<area shape="rect" id="Node000228" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="919,8097,1129,8137"/>
+<area shape="poly" id="edge304_Node000227_Node000228" title=" " alt="" coords="744,8117,919,8115,919,8120,744,8122"/>
+<area shape="rect" id="Node000229" href="$structmlir_1_1gpu_1_1WarpDistributionPattern.html" title=" " alt="" coords="1285,8093,1483,8133"/>
+<area shape="poly" id="edge305_Node000228_Node000229" title=" " alt="" coords="1143,8113,1285,8111,1285,8116,1143,8118"/>
+<area shape="rect" id="Node000231" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8170,1109,8210"/>
+<area shape="poly" id="edge307_Node000230_Node000231" title=" " alt="" coords="728,8194,938,8189,939,8195,729,8199"/>
+<area shape="rect" id="Node000232" href="$structmlir_1_1linalg_1_1CopyVectorizationPattern.html" title="Vectorization pattern for memref::CopyOp." alt="" coords="1275,8157,1493,8197"/>
+<area shape="poly" id="edge308_Node000231_Node000232" title=" " alt="" coords="1123,8184,1274,8178,1275,8183,1123,8189"/>
+<area shape="rect" id="Node000234" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8246,1109,8286"/>
+<area shape="poly" id="edge310_Node000233_Node000234" title=" " alt="" coords="720,8272,938,8266,938,8271,720,8277"/>
+<area shape="rect" id="Node000235" href="$structmlir_1_1linalg_1_1DecomposeOuterUnitDimsPackOpPattern.html" title="Rewrites a linalg::PackOp into a sequence of:" alt="" coords="1277,8221,1491,8261"/>
+<area shape="poly" id="edge311_Node000234_Node000235" title=" " alt="" coords="1123,8256,1277,8245,1277,8251,1124,8262"/>
+<area shape="rect" id="Node000237" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8323,1109,8363"/>
+<area shape="poly" id="edge313_Node000236_Node000237" title=" " alt="" coords="720,8350,938,8343,938,8349,720,8356"/>
+<area shape="rect" id="Node000238" href="$structmlir_1_1linalg_1_1DecomposeOuterUnitDimsUnPackOpPattern.html" title="Rewrites a linalg::UnPackOp into a sequence of:" alt="" coords="1277,8285,1491,8325"/>
+<area shape="poly" id="edge314_Node000237_Node000238" title=" " alt="" coords="1123,8330,1277,8313,1278,8319,1124,8335"/>
+<area shape="rect" id="Node000240" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8402,1109,8442"/>
+<area shape="poly" id="edge316_Node000239_Node000240" title=" " alt="" coords="723,8429,938,8422,938,8427,723,8434"/>
+<area shape="rect" id="Node000241" href="$structmlir_1_1linalg_1_1DecomposePadOpPattern.html" title="Rewrite a tensor::PadOp into a sequence of EmptyOp, FillOp and InsertSliceOp." alt="" coords="1284,8349,1484,8389"/>
+<area shape="poly" id="edge317_Node000240_Node000241" title=" " alt="" coords="1123,8405,1283,8381,1284,8386,1124,8410"/>
+<area shape="rect" id="Node000243" href="$structmlir_1_1OpInterfaceRewritePattern.html" title=" " alt="" coords="933,8522,1115,8562"/>
+<area shape="poly" id="edge319_Node000242_Node000243" title=" " alt="" coords="738,8516,933,8532,932,8537,738,8521"/>
+<area shape="rect" id="Node000244" href="$structmlir_1_1linalg_1_1DownscaleConv2DOp.html" title=" " alt="" coords="1264,8685,1504,8711"/>
+<area shape="poly" id="edge320_Node000243_Node000244" title=" " alt="" coords="1111,8564,1148,8582,1183,8604,1199,8622,1207,8639,1215,8656,1231,8670,1265,8686,1263,8690,1228,8675,1211,8659,1202,8642,1194,8625,1180,8608,1146,8586,1109,8569"/>
+<area shape="rect" id="Node000245" href="$structmlir_1_1linalg_1_1DownscaleDepthwiseConv2DNhwcHwcOp.html" title="Rewrites 2&#45;D depthwise convolution ops with size&#45;1 (w, kw) or (h, kh) dimensions into 1&#45;D depthwise c..." alt="" coords="1264,8413,1504,8453"/>
+<area shape="poly" id="edge321_Node000243_Node000245" title=" " alt="" coords="1085,8514,1153,8488,1229,8463,1280,8450,1281,8455,1230,8469,1155,8493,1087,8519"/>
+<area shape="rect" id="Node000246" href="$structmlir_1_1linalg_1_1DownscaleSizeOneWindowed2DConvolution.html" title="Rewrites 2&#45;D convolution ops with size&#45;1 window dimensions into 1&#45;D convolution ops." alt="" coords="1278,8477,1490,8532"/>
+<area shape="poly" id="edge322_Node000243_Node000246" title=" " alt="" coords="1129,8529,1278,8513,1278,8518,1129,8534"/>
+<area shape="rect" id="Node000247" href="$structmlir_1_1linalg_1_1LinalgGeneralizationPattern.html" title="Linalg generalization pattern." alt="" coords="1267,8557,1501,8597"/>
+<area shape="poly" id="edge323_Node000243_Node000247" title=" " alt="" coords="1129,8549,1266,8563,1266,8568,1129,8555"/>
+<area shape="rect" id="Node000248" href="$classmlir_1_1linalg_1_1LinalgOpToLibraryCallRewrite.html" title=" " alt="" coords="1299,8621,1469,8661"/>
+<area shape="poly" id="edge324_Node000243_Node000248" title=" " alt="" coords="1095,8564,1230,8606,1299,8622,1298,8627,1229,8611,1093,8569"/>
+<area shape="rect" id="Node000250" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8618,1109,8658"/>
+<area shape="poly" id="edge326_Node000249_Node000250" title=" " alt="" coords="734,8587,819,8601,939,8621,938,8626,818,8606,733,8593"/>
+<area shape="rect" id="Node000251" href="$structmlir_1_1linalg_1_1FoldTensorCastPackOp.html" title="Folds a tensor.cast op into a consuming PackOp op if the tensor.cast has source that is more static t..." alt="" coords="1299,8735,1469,8775"/>
+<area shape="poly" id="edge327_Node000250_Node000251" title=" " alt="" coords="1096,8660,1182,8696,1206,8709,1230,8721,1300,8740,1298,8745,1228,8726,1204,8714,1180,8700,1094,8665"/>
+<area shape="rect" id="Node000253" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8710,1109,8750"/>
+<area shape="poly" id="edge329_Node000252_Node000253" title=" " alt="" coords="744,8650,819,8665,896,8685,966,8707,964,8712,895,8690,818,8670,743,8655"/>
+<area shape="rect" id="Node000254" href="$structmlir_1_1linalg_1_1FoldTensorCastUnPackOp.html" title="Folds a tensor.cast op into a consuming UnPackOp op if the tensor.cast has source that is more static..." alt="" coords="1299,8799,1469,8839"/>
+<area shape="poly" id="edge330_Node000253_Node000254" title=" " alt="" coords="1106,8751,1230,8785,1300,8800,1299,8806,1229,8790,1104,8756"/>
+<area shape="rect" id="Node000256" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8831,1109,8871"/>
+<area shape="poly" id="edge332_Node000255_Node000256" title=" " alt="" coords="744,8710,820,8730,845,8744,868,8760,988,8829,985,8833,865,8764,842,8748,818,8735,743,8715"/>
+<area shape="rect" id="Node000257" href="$structmlir_1_1linalg_1_1LinalgSpecializationPattern.html" title=" " alt="" coords="1269,8863,1499,8903"/>
+<area shape="poly" id="edge333_Node000256_Node000257" title=" " alt="" coords="1123,8857,1269,8870,1268,8876,1123,8863"/>
+<area shape="rect" id="Node000259" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8895,1109,8935"/>
+<area shape="poly" id="edge335_Node000258_Node000259" title=" " alt="" coords="720,8773,772,8786,820,8809,837,8827,845,8846,852,8865,868,8881,902,8898,939,8908,938,8913,900,8903,865,8885,848,8867,840,8848,833,8830,817,8813,770,8791,718,8778"/>
+<area shape="rect" id="Node000260" href="$structmlir_1_1math_1_1ErfPolynomialApproximation.html" title=" " alt="" coords="1289,8927,1479,8967"/>
+<area shape="poly" id="edge336_Node000259_Node000260" title=" " alt="" coords="1123,8921,1289,8936,1289,8942,1123,8927"/>
+<area shape="rect" id="Node000262" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,8975,1109,9015"/>
+<area shape="poly" id="edge338_Node000261_Node000262" title=" " alt="" coords="719,8854,771,8866,820,8888,836,8902,845,8917,854,8931,868,8945,903,8963,939,8976,938,8982,900,8968,865,8949,849,8935,841,8919,832,8905,817,8892,769,8871,718,8859"/>
+<area shape="rect" id="Node000263" href="$structmlir_1_1math_1_1ErfcPolynomialApproximation.html" title=" " alt="" coords="1286,8991,1482,9031"/>
+<area shape="poly" id="edge339_Node000262_Node000263" title=" " alt="" coords="1124,8997,1286,9004,1286,9010,1123,9002"/>
+<area shape="rect" id="Node000265" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,9047,1109,9087"/>
+<area shape="poly" id="edge341_Node000264_Node000265" title=" " alt="" coords="729,8920,776,8931,820,8952,838,8970,846,8989,853,9008,868,9025,902,9043,939,9055,938,9060,900,9048,865,9029,848,9011,841,8991,833,8973,817,8956,775,8936,728,8926"/>
+<area shape="rect" id="Node000266" href="$classmlir_1_1scf_1_1ForLoopPipeliningPattern.html" title=" " alt="" coords="1285,9055,1483,9095"/>
+<area shape="poly" id="edge342_Node000265_Node000266" title=" " alt="" coords="1124,9067,1285,9070,1285,9076,1123,9072"/>
+<area shape="rect" id="Node000268" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="939,9111,1109,9151"/>
+<area shape="poly" id="edge344_Node000267_Node000268" title=" " alt="" coords="720,8983,772,8994,820,9017,838,9037,845,9058,852,9079,868,9097,902,9114,939,9124,938,9130,900,9119,865,9101,847,9081,840,9060,834,9040,817,9021,770,8999,719,8988"/>
+<area shape="rect" id="Node000269" href="$structmlir_1_1shard_1_1OpRewritePatternWithSymbolTableCollection.html" title=" " alt="" coords="1260,9119,1508,9159"/>
+<area shape="poly" id="edge345_Node000268_Node000269" title=" " alt="" coords="1123,9131,1260,9134,1260,9139,1123,9136"/>
+<area shape="rect" id="Node000275" href="$structmlir_1_1OpInterfaceRewritePattern.html" title="OpInterfaceRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting a..." alt="" coords="933,3314,1115,3354"/>
+<area shape="poly" id="edge351_Node000274_Node000275" title=" " alt="" coords="740,3375,932,3345,933,3351,741,3380"/>
+<area shape="rect" id="Node000276" href="$structmlir_1_1OpRewritePattern.html" title="OpRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting against an..." alt="" coords="939,3378,1109,3418"/>
+<area shape="poly" id="edge352_Node000274_Node000276" title=" " alt="" coords="741,3395,938,3395,938,3401,741,3401"/>
+<area shape="rect" id="Node000277" href="$structMulExtendedFold.html" title=" " alt="" coords="1289,3302,1479,3342"/>
+<area shape="poly" id="edge353_Node000276_Node000277" title=" " alt="" coords="1122,3376,1181,3363,1229,3353,1290,3339,1291,3345,1230,3358,1182,3369,1123,3381"/>
+<area shape="rect" id="Node000278" href="$structmlir_1_1vector_1_1MaskableOpRewritePattern.html" title="A pattern for ops that implement MaskableOpInterface and that might be masked (i.e." alt="" coords="1279,3238,1489,3278"/>
+<area shape="poly" id="edge354_Node000276_Node000278" title=" " alt="" coords="1122,3388,1152,3378,1180,3364,1196,3346,1203,3327,1210,3307,1228,3288,1252,3275,1278,3265,1280,3270,1254,3279,1231,3292,1215,3310,1208,3329,1200,3349,1183,3368,1154,3383,1124,3393"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConcreteOpInterface&lt; ConcreteIface &gt;" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConcreteOpInterface&lt; ConcreteIface &gt;">
+<area shape="rect" id="Node000001" title="CRTP base class for Python classes representing MLIR Op interfaces." alt="" coords="5,192,223,261"/>
+<area shape="rect" id="Node000002" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="517,5,769,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,181,202,153,246,128,313,102,384,81,517,53,518,58,385,86,315,107,248,133,205,157,166,186"/>
+<area shape="rect" id="Node000004" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="535,99,752,168"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,198,246,196,534,147,535,152,247,201,236,203"/>
+<area shape="rect" id="Node000006" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="522,192,765,261"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="237,224,522,224,522,229,237,229"/>
+<area shape="rect" id="Node000008" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="515,285,772,355"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="236,250,247,252,515,298,514,303,246,257,235,255"/>
+<area shape="rect" id="Node000010" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="535,379,752,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="165,268,204,297,248,322,320,350,395,371,469,388,535,399,534,404,468,393,394,377,318,355,246,326,201,301,162,272"/>
+<area shape="rect" id="Node000003" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyInferShapedTypeOpInterface.html" title="Python wrapper for InferShapedTypeOpInterface." alt="" coords="835,13,1066,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="783,37,835,37,835,43,783,43"/>
+<area shape="rect" id="Node000005" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyInferTypeOpInterface.html" title="Python wrapper for InferTypeOpInterface." alt="" coords="842,106,1059,161"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="766,131,842,131,842,136,766,136"/>
+<area shape="rect" id="Node000007" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyMemoryEffectsOpInterface.html" title="Wrapper around the MemoryEffectsOpInterface." alt="" coords="841,199,1061,254"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="779,224,840,224,840,229,779,229"/>
+<area shape="rect" id="Node000009" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1transform_1_1PyPatternDescriptorOpInterface.html" title=" " alt="" coords="835,285,1066,355"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="786,317,835,317,835,323,786,323"/>
+<area shape="rect" id="Node000011" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1transform_1_1PyTransformOpInterface.html" title=" " alt="" coords="821,386,1080,441"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="766,411,821,411,821,416,766,416"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="llvm::PointerUnion&lt; PT &gt;" name="llvm::PointerUnion&lt; PT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,768,148,808"/>
+<area shape="rect" id="Node000002" href="$structmlir_1_1CallInterfaceCallable.html" title="A callable is either a symbol, or an SSA value, that is referenced by a call&#45;like operation." alt="" coords="459,5,651,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,755,78,617,90,425,102,328,118,239,141,166,154,137,170,116,200,88,233,67,270,50,309,37,387,22,458,18,459,23,387,28,310,42,272,55,236,71,203,93,174,119,159,140,146,168,124,240,107,329,95,426,83,617,81,755"/>
+<area shape="rect" id="Node000003" href="$classmlir_1_1IRUnit.html" title="IRUnit is a union of the different types of IR objects that constitute the IR structure (other than T..." alt="" coords="467,70,642,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,754,80,628,94,455,106,368,122,288,143,223,156,198,170,178,201,151,236,130,275,113,315,102,395,90,467,88,467,93,395,95,316,107,276,118,239,134,204,155,174,182,160,200,148,225,127,290,111,369,99,456,85,628,81,754"/>
+<area shape="rect" id="Node000004" href="$classmlir_1_1LLVM_1_1GEPArg.html" title="Class used for building a &#39;llvm.getelementptr&#39;." alt="" coords="447,149,663,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="76,753,82,637,97,483,109,405,125,334,145,276,157,254,170,237,199,212,231,193,266,179,303,168,377,157,447,156,447,161,378,162,304,173,268,184,234,198,202,217,174,241,161,257,150,278,130,336,114,406,102,483,87,638,82,754"/>
+<area shape="rect" id="Node000005" href="$structmlir_1_1LatticeAnchor.html" title="Fundamental IR components are supported as first&#45;class lattice anchor." alt="" coords="455,214,654,269"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="77,754,84,648,100,508,112,438,127,375,146,324,170,289,201,265,235,247,271,234,309,226,385,219,455,222,455,228,385,224,310,231,272,239,237,252,204,270,174,292,151,326,132,377,117,439,105,509,89,648,82,754"/>
+<area shape="rect" id="Node000006" href="$classmlir_1_1OpFoldResult.html" title="This class represents a single result from folding an operation." alt="" coords="478,293,631,333"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="77,754,85,656,102,529,114,466,129,410,148,364,170,334,204,310,242,294,283,283,324,278,406,280,478,291,477,296,406,285,325,284,284,289,244,299,207,315,174,338,152,367,134,412,119,468,107,530,91,656,83,754"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="472,358,637,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="79,754,91,674,109,575,136,483,152,447,170,423,192,410,223,400,301,387,390,382,472,381,472,386,390,387,302,393,224,405,194,415,174,427,156,450,141,484,114,576,96,675,85,755"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="479,437,631,477"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="75,754,78,694,91,621,103,582,120,546,142,513,170,485,193,472,225,463,306,452,396,449,478,451,478,456,396,455,306,458,226,468,195,477,174,489,146,516,125,549,108,584,96,622,83,695,80,754"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="463,502,646,557"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="79,754,87,708,103,654,130,601,148,578,171,558,212,546,286,538,463,529,463,534,287,544,213,552,173,562,152,581,134,604,108,656,92,709,84,755"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="462,581,647,651"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="89,754,121,701,143,675,171,654,212,643,287,633,462,619,462,624,287,639,213,648,173,658,147,679,125,704,94,757"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="443,675,667,744"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="153,762,171,757,312,733,442,717,443,722,313,738,173,763,154,767"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="437,768,672,808"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="161,785,437,785,437,791,161,791"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="463,832,646,872"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="153,809,172,813,326,835,463,846,463,851,325,840,172,819,152,814"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="459,896,650,936"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="104,816,135,846,173,871,245,896,320,910,393,917,459,919,459,924,393,923,319,916,243,901,171,876,132,850,100,820"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="472,961,637,1015"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="87,821,98,857,115,898,140,936,174,967,208,986,246,999,285,1007,325,1012,403,1011,472,1003,472,1009,403,1017,325,1017,284,1012,244,1004,206,990,170,972,136,940,110,900,93,859,82,822"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="447,1040,663,1080"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="82,821,88,873,103,934,115,965,130,994,150,1020,174,1042,193,1052,220,1059,289,1067,369,1068,447,1066,447,1071,369,1074,288,1072,219,1064,191,1057,170,1046,146,1024,126,997,110,967,98,935,83,874,77,822"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="455,1105,654,1159"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="85,821,97,895,116,985,142,1068,157,1098,174,1118,193,1128,221,1136,293,1143,375,1143,455,1139,455,1144,376,1149,293,1149,220,1141,191,1133,170,1122,153,1101,137,1070,111,986,92,896,80,822"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="478,1184,631,1224"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="84,822,94,906,112,1013,139,1112,155,1150,174,1174,195,1186,225,1195,305,1205,395,1208,478,1206,478,1211,395,1213,305,1211,224,1200,193,1191,170,1178,151,1152,134,1114,107,1014,89,907,79,822"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="439,1249,670,1303"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="82,821,89,923,105,1055,117,1121,133,1179,151,1226,174,1257,192,1267,217,1275,284,1284,361,1286,439,1283,439,1288,361,1291,283,1289,216,1280,190,1272,170,1261,147,1229,128,1181,112,1122,100,1056,84,923,77,822"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="445,1328,664,1397"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="81,822,85,943,98,1105,109,1186,126,1259,147,1318,160,1339,174,1355,192,1366,218,1373,287,1380,366,1379,445,1373,445,1379,367,1385,286,1386,217,1379,190,1371,170,1359,155,1343,142,1320,121,1261,104,1187,92,1106,79,943,76,822"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="473,1422,636,1477"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="80,822,82,956,93,1141,105,1234,121,1318,144,1386,158,1411,174,1430,194,1442,224,1451,302,1459,391,1459,473,1454,473,1460,391,1465,301,1465,223,1456,192,1447,170,1434,154,1414,139,1388,116,1320,99,1235,88,1142,77,957,75,822"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="433,1501,676,1555"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="83,821,93,980,112,1199,125,1307,140,1402,156,1472,165,1495,174,1509,203,1531,236,1546,272,1557,309,1562,383,1562,453,1553,454,1558,384,1568,308,1568,270,1562,234,1551,201,1535,170,1513,160,1498,151,1474,134,1403,120,1308,107,1199,88,980,77,822"/>
+</map>

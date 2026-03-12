@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,603,124,629"/>
+<area shape="rect" id="Node000001" href="$structmlir_1_1Sliceable_1_1has__maybe__downcast_3_01T_00_01std_1_1void__t_3_01decltype_07_6T_1_1maybeDownCast_08_4_01_4.html" title=" " alt="" coords="172,539,449,608"/>
+<area shape="poly" id="edge1933_Node000000_Node000001" title=" " alt="" coords="137,601,171,595,172,600,138,606"/>
+<area shape="rect" id="Node000003" href="$structmlir_1_1detail_1_1is__complex__t_3_01std_1_1complex_3_01T_01_4_01_4.html" title=" " alt="" coords="217,5,404,45"/>
+<area shape="poly" id="edge1934_Node000000_Node000003" title=" " alt="" coords="68,589,122,286,152,129,170,56,191,39,216,29,218,34,194,44,174,59,157,130,128,287,73,590"/>
+<area shape="rect" id="Node000004" href="$structmlir_1_1detail_1_1is__pair_3_01std_1_1pair_3_01Ts_8_8_8_01_4_01_4.html" title=" " alt="" coords="231,69,391,109"/>
+<area shape="poly" id="edge1935_Node000000_Node000004" title=" " alt="" coords="67,589,111,331,141,195,156,146,170,120,198,100,230,90,231,95,200,105,174,123,161,148,147,196,117,332,73,590"/>
+<area shape="rect" id="Node000005" href="$structmlir_1_1detail_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html" title=" " alt="" coords="227,133,395,173"/>
+<area shape="poly" id="edge1936_Node000000_Node000005" title=" " alt="" coords="66,589,78,498,100,377,114,316,130,260,149,215,170,183,196,166,226,155,227,160,198,170,174,187,154,217,135,262,119,317,105,378,84,499,72,590"/>
+<area shape="rect" id="Node000006" href="$structmlir_1_1query_1_1matcher_1_1has__bound__match_3_01T_00_01std_1_1void__t_3_01decltype_07stdcf2451b5d3c307db1c18067b2733ca2a.html" title=" " alt="" coords="207,198,414,311"/>
+<area shape="poly" id="edge1937_Node000000_Node000006" title=" " alt="" coords="66,589,76,535,94,465,125,390,145,355,170,322,205,293,209,297,174,326,150,357,130,392,99,467,81,536,72,590"/>
+<area shape="rect" id="Node000007" href="$structmlir_1_1query_1_1matcher_1_1has__simple__match_3_01T_00_01std_1_1void__t_3_01decltype_07st1e0a0503d27a42df5b77d5f51e428c6a.html" title=" " alt="" coords="213,336,408,435"/>
+<area shape="poly" id="edge1938_Node000000_Node000007" title=" " alt="" coords="74,589,110,519,137,480,170,445,212,417,215,422,174,449,142,483,115,522,79,592"/>
+<area shape="rect" id="Node000008" href="$structmlir_1_1sparse__tensor_1_1detail_1_1is__complex_3_01std_1_1complex_3_01T_01_4_01_4.html" title=" " alt="" coords="223,459,398,514"/>
+<area shape="poly" id="edge1939_Node000000_Node000008" title=" " alt="" coords="85,592,123,557,171,524,222,503,224,508,173,529,126,561,89,595"/>
+<area shape="rect" id="Node000009" href="$structmlir_1_1Sliceable_1_1has__maybe__downcast.html" title="Trait to check if T provides a maybeDownCast method." alt="" coords="209,633,412,687"/>
+<area shape="poly" id="edge1940_Node000000_Node000009" title=" " alt="" coords="138,626,210,639,209,645,137,632"/>
+<area shape="rect" id="Node000010" href="$structmlir_1_1detail_1_1is__complex__t.html" title="Type trait detector that checks if a given type T is a complex type." alt="" coords="223,712,398,752"/>
+<area shape="poly" id="edge1941_Node000000_Node000010" title=" " alt="" coords="90,637,127,669,173,698,224,716,222,721,171,702,124,673,87,641"/>
+<area shape="rect" id="Node000011" href="$structmlir_1_1detail_1_1is__pair.html" title=" " alt="" coords="219,777,402,802"/>
+<area shape="poly" id="edge1942_Node000000_Node000011" title=" " alt="" coords="79,640,115,703,141,735,173,762,196,773,220,780,218,785,194,778,171,766,138,739,110,706,74,643"/>
+<area shape="rect" id="Node000012" href="$structmlir_1_1detail_1_1is__tuple.html" title=" " alt="" coords="215,826,406,851"/>
+<area shape="poly" id="edge1943_Node000000_Node000012" title=" " alt="" coords="75,641,87,681,107,727,135,774,153,795,174,812,194,824,216,831,214,836,191,829,170,817,149,799,131,777,102,730,82,682,70,643"/>
+<area shape="rect" id="Node000013" href="$structmlir_1_1query_1_1matcher_1_1has__bound__match.html" title=" " alt="" coords="223,875,398,930"/>
+<area shape="poly" id="edge1944_Node000000_Node000013" title=" " alt="" coords="72,642,82,690,101,749,131,810,151,838,174,862,197,878,224,888,222,893,195,882,170,866,146,841,126,813,96,751,77,691,67,643"/>
+<area shape="rect" id="Node000014" href="$structmlir_1_1query_1_1matcher_1_1has__simple__match.html" title=" " alt="" coords="221,954,400,1009"/>
+<area shape="poly" id="edge1945_Node000000_Node000014" title=" " alt="" coords="69,642,75,703,90,784,104,826,122,868,145,907,174,941,196,957,222,968,220,973,194,961,170,945,141,910,117,870,99,828,85,785,69,704,64,643"/>
+<area shape="rect" id="Node000015" href="$structmlir_1_1sparse__tensor_1_1detail_1_1is__complex.html" title=" " alt="" coords="217,1033,404,1073"/>
+<area shape="poly" id="edge1946_Node000000_Node000015" title=" " alt="" coords="72,642,85,728,107,842,137,950,154,992,174,1019,194,1034,218,1044,216,1049,192,1039,170,1023,150,994,132,952,101,843,80,729,67,643"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,242,121,267"/>
+<area shape="poly" id="edge1947_Node000002_Node000001" title=" " alt="" coords="72,281,81,332,99,397,129,466,149,497,174,525,188,536,185,541,170,529,145,500,124,468,94,399,75,333,66,282"/>
+<area shape="poly" id="edge1948_Node000002_Node000003" title=" " alt="" coords="70,228,83,189,103,142,132,95,170,55,192,42,216,33,218,38,195,47,174,59,136,98,108,145,88,191,75,229"/>
+<area shape="poly" id="edge1949_Node000002_Node000004" title=" " alt="" coords="77,228,114,173,140,143,171,119,199,105,230,96,231,101,201,110,173,124,144,147,118,176,81,231"/>
+<area shape="poly" id="edge1950_Node000002_Node000005" title=" " alt="" coords="91,231,128,206,171,183,226,165,227,170,173,188,130,211,94,236"/>
+<area shape="poly" id="edge1951_Node000002_Node000006" title=" " alt="" coords="135,252,207,252,207,257,135,257"/>
+<area shape="poly" id="edge1952_Node000002_Node000007" title=" " alt="" coords="97,273,173,320,214,341,212,346,171,325,94,278"/>
+<area shape="poly" id="edge1953_Node000002_Node000008" title=" " alt="" coords="76,280,89,317,109,361,137,406,174,445,197,460,224,470,222,475,195,464,170,449,133,410,104,364,84,319,71,281"/>
+</map>

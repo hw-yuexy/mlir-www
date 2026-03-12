@@ -1,0 +1,259 @@
+mlir.dialects.ext
+=================
+
+.. py:module:: mlir.dialects.ext
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   mlir.dialects.ext.Operand
+   mlir.dialects.ext.Result
+   mlir.dialects.ext.Region
+   mlir.dialects.ext.register_dialect
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   mlir.dialects.ext.Operation
+   mlir.dialects.ext.Type
+   mlir.dialects.ext.Attribute
+   mlir.dialects.ext.Dialect
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   mlir.dialects.ext.register_operation
+
+
+Module Contents
+---------------
+
+.. py:data:: Operand
+
+.. py:data:: Result
+
+.. py:data:: Region
+
+.. py:data:: register_dialect
+
+.. py:function:: register_operation(dialect_cls: type, *, replace: bool = False) -> Callable[[type], type]
+
+.. py:class:: Operation(**kwargs)
+
+   Bases: :py:obj:`ir`
+
+
+   
+   Base class of Python-defined operations.
+
+   The following example shows two ways to define operations via this class:
+
+   .. code:: python
+
+       class MyOp(MyDialect.Operation, name=..):
+         ...
+       
+       class MyOp(Operation, dialect=MyDialect, name=..):
+         ...
+
+
+   .. py:method:: __init_subclass__(*, name: str | None = None, traits: list[type] | None = None, dialect: type | None = None, **kwargs)
+      :classmethod:
+
+
+      
+      This method is to perform all magic to make a ``Operation`` subclass works like a dataclass, like:
+
+      * generate the method to emit IRDL operations,
+      * generate ``__init__`` method as an operation builder function,
+      * generate operand, result and attribute accessors
+
+
+
+   .. py:method:: _variadicity_to_segment(variadicity: mlir.dialects.irdl.Variadicity) -> int
+      :staticmethod:
+
+
+
+   .. py:method:: _generate_segments(operands_or_results: List[Union[OperandDef, ResultDef]]) -> List[int] | None
+      :staticmethod:
+
+
+
+   .. py:method:: _generate_init_signature(fields: List[FieldDef], can_infer_types: bool) -> inspect.Signature
+      :staticmethod:
+
+
+
+   .. py:method:: _generate_init_method(fields: List[FieldDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _generate_class_attributes(dialect_name: str, op_name: str, fields: List[FieldDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _generate_attr_properties(attrs: List[AttributeDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _generate_region_properties(regions: List[RegionDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _generate_operand_properties(operands: List[OperandDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _generate_result_properties(results: List[ResultDef]) -> None
+      :classmethod:
+
+
+
+   .. py:method:: _attach_traits() -> None
+      :classmethod:
+
+
+
+   .. py:method:: _emit_operation() -> None
+      :classmethod:
+
+
+
+.. py:class:: Type(cast_from_type: Type)
+
+   Bases: :py:obj:`ir`
+
+
+   
+   Base class of Python-defined types.
+
+   The following example shows two ways to define types via this class:
+
+   .. code:: python
+
+       class MyType(MyDialect.Type, name=..):
+         ...
+       
+       class MyType(Type, dialect=MyDialect, name=..):
+         ...
+
+
+   .. py:method:: __init_subclass__(*, name: str | None = None, dialect: type | None = None, **kwargs)
+      :classmethod:
+
+
+
+   .. py:method:: get(*args, context=None)
+      :classmethod:
+
+
+      
+      Create a dynamic type.
+
+
+
+   .. py:method:: _emit_type() -> None
+      :classmethod:
+
+
+
+.. py:class:: Attribute(cast_from_attr: Attribute)
+
+   Bases: :py:obj:`ir`
+
+
+   
+   Base class of Python-defined attributes.
+
+   The following example shows two ways to define attributes via this class:
+
+   .. code:: python
+
+       class MyAttr(MyDialect.Attribute, name=..):
+         ...
+       
+       class MyAttr(Attribute, dialect=MyDialect, name=..):
+         ...
+
+
+   .. py:method:: __init_subclass__(*, name: str | None = None, dialect: type | None = None, **kwargs)
+      :classmethod:
+
+
+
+   .. py:method:: get(*args, context=None)
+      :classmethod:
+
+
+      
+      Create a dynamic attribute.
+
+
+
+   .. py:method:: _emit_attr() -> None
+      :classmethod:
+
+
+
+.. py:class:: Dialect(descriptor: object)
+
+   Bases: :py:obj:`ir`
+
+
+   
+   Base class of a Python-defined dialect.
+
+   It can be used like the following example:
+
+   .. code:: python
+
+       class MyInt(Dialect, name="myint"):
+           pass
+       
+       i32 = IntegerType[32]
+       
+       class ConstantOp(MyInt.Operation, name="constant"):
+           value: IntegerAttr
+           cst: Result[i32]
+       
+       class AddOp(MyInt.Operation, name="add"):
+           lhs: Operand[i32]
+           rhs: Operand[i32]
+           res: Result[i32]
+
+
+   .. py:method:: __init_subclass__(name: str, **kwargs)
+      :classmethod:
+
+
+
+   .. py:method:: _emit_dialect() -> None
+      :classmethod:
+
+
+
+   .. py:method:: _emit_module() -> ir
+      :classmethod:
+
+
+
+   .. py:method:: load(*, register: bool = True, reload: bool = False, replace: bool = False) -> None
+      :classmethod:
+
+
+
